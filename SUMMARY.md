@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Dear bank, where did my 100 bucks go?](README.md)
 
