@@ -6,10 +6,7 @@ description: >-
 
 # Decentralizing Consensus
 
-David Knott's _Decentralizing Consensus_: [https://www.youtube.com/watch?v=iOAD3IpOJ0A](https://www.youtube.com/watch?v=iOAD3IpOJ0A)  
-[/u/jager\_master](https://www.reddit.com/u/jager_master)
-
-**Decentralizing consensus**
+_**Decentralizing Consensus:**_ **David Knott**
 
 **People and blockchains**
 
