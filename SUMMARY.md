@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OMG Network](README.md)
+* [OMG Network Knowledge Base](README.md)
 
 ## OMG Network
 
