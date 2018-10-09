@@ -93,7 +93,7 @@ def findTheDaily(reddit, masub):
 
 def bot_run(reddit, masub):
     logger.info('Executing bot')
-    limit = 100
+    limit = 50
     bar = Bar('Looking for any requests', max=limit, suffix='%(index)d/%(max)d - %(percent).1f%% - %(eta)ds')
     for comment in reddit.subreddit(masub).comments(limit=limit):
         if comment.id not in comments_replied_to and comment.submission.locked == False and '!qna' in comment.body:
@@ -111,7 +111,7 @@ def bot_run(reddit, masub):
                 f.write(comment.id + "\n")
             comments_replied_to.append(comment.id)
         bar.next()
-    sleeps = 60
+    sleeps = 1
     logger.info('Going to sleep for %s seconds' % sleeps)
     time.sleep(sleeps)
 
