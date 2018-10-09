@@ -28,6 +28,22 @@
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
   * [Current state](deep-dive/ewallet-suite/current-state.md)
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
+* [Plasma](deep-dive/plasma/README.md)
+  * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
+  * [Current state](deep-dive/plasma/current-state.md)
+  * [Plasma MVP](deep-dive/plasma/plasma-mvp.md)
+* [Cash in/out](deep-dive/cash-in-out-1/README.md)
+  * [What is Cash in/out ?](deep-dive/cash-in-out-1/what-is-cash-in-out.md)
+  * [Current state](deep-dive/cash-in-out-1/current-state.md)
+* [Staking](deep-dive/staking/README.md)
+  * [What does staking means ?](deep-dive/staking/what-does-staking-means.md)
+  * [Current state](deep-dive/staking/current-state-1.md)
+* [Interoperability](deep-dive/interoperability/README.md)
+  * [What does interoperability means ?](deep-dive/interoperability/what-does-interoperability-means.md)
+  * [Current state](deep-dive/interoperability/current-state-2.md)
+* [Business development](deep-dive/business-development/README.md)
+  * [Omise](deep-dive/business-development/omise.md)
+  * [Partnerships](deep-dive/business-development/partnerships.md)
 
 ## Videos
 
