@@ -14,6 +14,9 @@ from tabulate import tabulate
 import configparser
 from progress.bar import Bar
 import pprint
+import http.client
+import urllib.parse
+import time
 
 
 pysqldf = lambda q: sqldf(q, globals())
@@ -22,7 +25,6 @@ pysqldf = lambda q: sqldf(q, globals())
 def UtcNow():
     now = datetime.datetime.utcnow()
     return now.strftime("%Y-%m-%d %H:%M")
-
 
 def bot_login(config):
     logger.info("Getting config")
@@ -37,6 +39,21 @@ def bot_login(config):
     logger.info("Read only state: %s" % reddit.read_only)
     return reddit
 
+class kbconfig:
+    host = ""
+    endpoint_key = ""
+    kb = ""
+
+def kb_login(config):
+    logger.info("Getting KB config")
+    parser = configparser.ConfigParser()
+    parser.read('config.ini')
+
+    conf = kbconfig()
+    conf.host = parser.get(config, 'qnahost')
+    conf.endpoint_key = parser.get(config, 'qnaendpoint')
+    conf.kb = parser.get(config, 'qnakbid')
+    return(conf)
 
 def getSubComments(comment, allComments, verbose=True):
     allComments.append(comment)
@@ -80,19 +97,21 @@ def bot_run(reddit, masub):
     bar = Bar('Looking for any requests', max=limit, suffix='%(index)d/%(max)d - %(percent).1f%% - %(eta)ds')
     for comment in reddit.subreddit(masub).comments(limit=limit):
         if comment.id not in comments_replied_to and comment.submission.locked == False and '!qna' in comment.body:
-            comms = getComments(reddit, masub)
+            #comms = getComments(reddit, masub)
             #rpt = generateReport(comms, masub)
             canReply = True # NOTE: This is hardcoded
             if canReply:
                 logger.info('Replying to request')
-                comment.reply("I see you")
+                question = comment.body.replace('!qna ', '')
+                answer = GetAnswer(question)
+                comment.reply(answer)
             else:
                 logger.warn('Replying DISABLED')
             with open("comments_replied_to.txt", "a") as f:
                 f.write(comment.id + "\n")
             comments_replied_to.append(comment.id)
         bar.next()
-    sleeps = 120
+    sleeps = 60
     logger.info('Going to sleep for %s seconds' % sleeps)
     time.sleep(sleeps)
 
@@ -166,6 +185,40 @@ def generateReport(comms, masub, writefile=False):
             f.write("\n".join(report))
         logger.info('Report written markdown file')
     return("\n".join(report))
+
+def AskAnswer(conf, question):
+    #host = "omqna.azurewebsites.net"
+    #endpoint_key = "70f73de7-0125-4bbd-a464-fa3799c23c7a"
+    #kb = "282039a9-26fa-4272-85dc-32cceac91928"
+
+    method = "/qnamaker/knowledgebases/" + conf.kb + "/generateAnswer"
+    question = {
+        'question': question,
+        'top': 1
+    }
+    content = json.dumps(question)
+    path = method
+
+    print ('Calling ' + conf.host + path + '.')
+    headers = {
+        'Authorization': 'EndpointKey ' + conf.endpoint_key,
+        'Content-Type': 'application/json',
+        'Content-Length': len (content)
+    }
+    conn = http.client.HTTPSConnection(conf.host)
+    conn.request ("POST", path, content, headers)
+    response = conn.getresponse()
+    return response.read()
+
+def GetAnswer(question):
+    conf = kb_login('REDDIT_CONFIG1')
+    result = json.loads(AskAnswer(conf, question))
+    return result['answers'][0]['answer']
+
+def pretty_print (content):
+# Note: We convert content to and from an object so we can pretty-print it.
+    return json.dumps(json.loads(content), indent=4)
+
 
 reddit = bot_login('REDDIT_CONFIG1')
 masub = 'test'
