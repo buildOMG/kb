@@ -79,13 +79,13 @@ def bot_run(reddit, masub):
     limit = 100
     bar = Bar('Looking for any requests', max=limit, suffix='%(index)d/%(max)d - %(percent).1f%% - %(eta)ds')
     for comment in reddit.subreddit(masub).comments(limit=limit):
-        if comment.id not in comments_replied_to and comment.submission.locked == False and '!league1k' in comment.body:
+        if comment.id not in comments_replied_to and comment.submission.locked == False and '!qna' in comment.body:
             comms = getComments(reddit, masub)
-            rpt = generateReport(comms, masub)
-            canReply = False
+            #rpt = generateReport(comms, masub)
+            canReply = True # NOTE: This is hardcoded
             if canReply:
                 logger.info('Replying to request')
-                comment.reply(rpt)
+                comment.reply("I see you")
             else:
                 logger.warn('Replying DISABLED')
             with open("comments_replied_to.txt", "a") as f:
@@ -110,7 +110,8 @@ def getComments(reddit, masub):
         n += 1
         #if comment.author == red and comment.id not in comments_replied_to and comment.submission.locked == False:
         if comment.body != '[deleted]':
-            comms.append({'redditor':comment.author.name, 'score':comment.score})
+            if comment.author != None:
+                comms.append({'redditor':comment.author.name, 'score':comment.score})
         bar.next()
     bar.finish()
     logger.info('Comments loaded')
@@ -166,7 +167,7 @@ def generateReport(comms, masub, writefile=False):
         logger.info('Report written markdown file')
     return("\n".join(report))
 
-reddit = bot_login('REDDIT_CONFIG2')
+reddit = bot_login('REDDIT_CONFIG1')
 masub = 'test'
 comments_replied_to = get_saved_comments()
 while True:
@@ -178,7 +179,7 @@ if False:
     print(submission.title) # to make it non-lazy
     pprint.pprint(vars(submission))
     
-    # Get a sinlge users data in a datafarme
+    # Get a single users data in a dataframe
     comms = getUserComments(reddit, 'Mickey_Thumbs')
     commsdf = pd.DataFrame.from_dict(comms)
     commsdf.to_csv("Mickey_Thumbs.csv")
