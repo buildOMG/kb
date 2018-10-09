@@ -1,9 +1,3 @@
----
-description: >-
-  Vansa begins her presentation by outlining a major pain-point that exists
-  within the online banking industry: coordination and interoperability.
----
-
 # Dear bank, where did my 100 bucks go?
 
 **Dear bank, where did my 100 bucks go?**

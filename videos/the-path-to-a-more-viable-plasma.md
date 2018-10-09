@@ -1,9 +1,3 @@
----
-description: >-
-  Just in case people don't have time to watch the video, I have written a brief
-  summary of Kasima's presentation here:
----
-
 # The path to a more viable plasma
 
 Just in case people don't have time to watch the video, I have written a brief summary of Kasima's presentation here:

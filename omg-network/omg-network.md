@@ -1,4 +1,2 @@
 # OMG Network
 
-
-

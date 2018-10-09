@@ -1,10 +1,3 @@
----
-description: >-
-  David Knott introduces the concept of social networks, highlighting the
-  different levels of trust that exist interpersonally within a diverse
-  population.
----
-
 # Decentralizing Consensus
 
 _**Decentralizing Consensus:**_ **David Knott**
