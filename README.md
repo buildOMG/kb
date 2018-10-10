@@ -1,9 +1,3 @@
----
-description: >-
-  OMG is a complex project, with different value proposals. Explore the
-  different aspects of the network, presented for each profile, below:
----
-
 # OMG Network Knowledge Base
 
 * Investor:
