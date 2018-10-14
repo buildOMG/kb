@@ -30,7 +30,6 @@
   * [Scalability?](omisego-official-guide-1/how-does-omg-provide-for.../scalability.md)
   * [Mainstream Adoption?](omisego-official-guide-1/how-does-omg-provide-for.../mainstream-adoption.md)
 * [Community & Communication](omisego-official-guide-1/community-and-communication.md)
-* [FAQ](omisego-official-guide-1/faq.md)
 
 ## OMG Network
 
@@ -80,4 +79,8 @@
 * [Decentralizing Consensus](videos/decentralizing-consensus.md)
 * [The path to a more viable plasma](videos/the-path-to-a-more-viable-plasma.md)
 * [Dear bank, where did my 100 bucks go?](videos/dear-bank-where-did-my-100-bucks-go.md)
+
+## FAQ
+
+* [FAQ](faq/faq.md)
 
