@@ -4,6 +4,8 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
+## Why do we need OMG?
+
 Ultimately, blockchain solves one problem—the problem: **coordination**.
 
 The central paradox of human society is that we need to conduct transactions on a mass scale to accomplish our ends, but are simultaneously unwilling to trust anyone outside our immediate circle.

@@ -4,6 +4,8 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
+## Unbanking the Banked
+
 Billions of people across the world are unbanked, meaning they don’t have access to traditional banking infrastructure such as cards, loans, etc and primarily use at cash for everything from getting paid to buying groceries.
 
 Much of the discussion has been around “banking the unbanked”, bringing the unbanked into traditional financial systems via mobile nance tools. We think the truly exciting opportunities digitized nance opens up are quite the opposite. It opens up the possibility of a decentralized financial system where being “banked” is not a requirement for world citizenship and financial freedom is not a privilege of the wealthy but a basic right available to anyone.

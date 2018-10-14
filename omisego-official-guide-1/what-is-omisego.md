@@ -4,6 +4,8 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
+## What is OmiseGO?
+
 OmiseGO is a subsidiary of Omise, a leading online payment gateway service provider operating in Southeast Asia. The OmiseGO blockchain team has been involved in the Ethereum community from its very beginning—starting in 2015, Omise Blockchain Lab began research work focusing primarily on scalability. By the end of 2016, research had expanded into proof-of-stake \(PoS\) consensus design and in 2017, OmiseGO was created to achieve two goals:
 
 1. Create the OMG Money Gateway as a scaling solution for Ethereum focused on enabling payments, trades, and other financial transactions in both crypto and at. OMG is a fully public, currency agnostic decentralized exchange \(DEX\) network which will be secured by Ethereum and built to scale infinitely using the Plasma architecture. The OMG Network will be able to interact with Bitcoin \(or Bitcoin-like blockchains\) and other blockchain platforms through clearinghouses in state channels or smart contracts, as well as with digital at platforms and economies through collateralized at tokens. This, in combination with virtually unlimited scalability, will enable the OMG Network to serve essentially all global transactions simultaneously. 

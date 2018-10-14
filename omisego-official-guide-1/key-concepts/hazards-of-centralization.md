@@ -4,6 +4,8 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
+## Hazards of Centralization
+
 On a global scale, centralization in monetary systems create and perpetuate inequality: a tiny minority of people act as gatekeepers to the vast majority of the world’s wealth. Wealth buys power, power begets wealth, and resources are siphoned into a black hole from which they rarely return: the richest 1% of people own more wealth than the rest of the planet combined and this disparity is only increasing.
 
 Our current financial institutions don’t just enable this hoarding of wealth \(whether intentionally or inadvertently\), they also control the channels by which ordinary people can hold and move money, and impose regressive fee structures which make it very expensive to be poor. Many banks now impose fees on accounts that do not maintain a high enough balance - literally charging customers for not having enough money

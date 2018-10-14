@@ -4,6 +4,8 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
+## OMG token allocation & airdrop
+
 Total supply created = 140,245,398.245132780789239631  
 [https://etherscan.io/token/OmiseGO](https://etherscan.io/token/OmiseGO)
 

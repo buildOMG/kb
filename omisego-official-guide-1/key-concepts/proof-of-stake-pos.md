@@ -4,6 +4,8 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
+## Proof of Stake \(PoS\)
+
 Unlike Proof of Work \(PoW\), in which a miner or validator has to expend an enormous amount of computing power in order to mine a block, Proof of Stake \(PoS\) requires a validator to "stake" their tokens in order to validate: essentially, put their tokens in a security deposit. If they validate actively and honestly they are rewarded; if they behave dishonestly they lose tokens. Both systems are designed to make faulty behavior cost more than it’s worth:
 
 The brute computational strength needed to mine a block in a PoW system represents both a substantial investment in hardware and a great deal of energy consumed. The first miner to demonstrate correct PoW on a mined block receives a block reward as well as transaction fees associated with that block. That investment is a sunk cost regardless of the outcome; miners who misbehave \(e.g. submitting incorrect proofs\) will expend resources and see no returns, while honest ones have a chance of collecting block rewards that make them their money back and then some.
