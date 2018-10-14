@@ -20,6 +20,7 @@
   * [Proof of Stake \(PoS\)](omisego-official-guide-1/key-concepts/proof-of-stake-pos.md)
   * [OMG token function](omisego-official-guide-1/key-concepts/omg-token-function.md)
   * [Scalability with Plasma](omisego-official-guide-1/key-concepts/scalability-with-plasma.md)
+  * [Plasma: The Basics](omisego-official-guide-1/key-concepts/plasma-the-basics.md)
   * [Hazards of Centralization](omisego-official-guide-1/key-concepts/hazards-of-centralization.md)
   * [Unbanking the Banked](omisego-official-guide-1/key-concepts/unbanking-the-banked.md)
 * [Who will use the network?](omisego-official-guide-1/who-will-use-the-network.md)

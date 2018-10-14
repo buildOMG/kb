@@ -7,3 +7,6 @@ description: >-
 
 # FAQ
 
+We have provided answers here for the most common questions we receive via email; we can’t personally respond to each and every request for basic information so please read before emailing with questions.  
+
+
