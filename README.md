@@ -1,4 +1,65 @@
+---
+description: >-
+  Please note, this knowledge is a work in progress. OMG is still in
+  development, and some details cannot yet be included. The KB will be revised
+  regularly to include updates and additional details.
+---
+
 # OMG Network Knowledge Base
+
+## **Contents**
+
+### **What is OmiseGO?**
+
+### **Why do we need OMG?**
+
+### **Why did a for-profit company choose to invest in building a public network?**
+
+### **How was OmiseGO launched?**
+
+#### **OMG token allocation & airdrop**
+
+### **OMG basics**
+
+#### **eWallet Suite**
+
+#### **White-label Wallet Software Development Kit \(SDK\)**
+
+#### **Decentralized Exchange \(DEX\)**
+
+#### **Scalability Network Mechanism**
+
+#### **Decentralized Cash In/Out Layer**
+
+### **Key concepts**
+
+#### **Decentralized Network**
+
+#### **Proof of Stake \(PoS\)**
+
+#### **OMG token function**
+
+#### **Scalability with Plasma**
+
+#### **Hazards of Centralization**
+
+#### **Unbanking the Banked**
+
+### **Who will use the network?**
+
+### **What will OmiseGO do with themselves once the network is built?**
+
+### **How does OMG provide for...**
+
+#### **Security?**
+
+#### **Scalability?**
+
+#### **Mainstream Adoption?**
+
+### **Community & Communication**
+
+### **FAQ** 
 
 * Investor:
   * OMG is an ERC20 token whose main function is to be staked. Staking the token means purchasing an arbitrary amount of tokens, and put it at stake to validate the transactions going on the network, generating passive revenues for its owner. _go a bit more in depth about staking, then links to the KB to dive deeper_
