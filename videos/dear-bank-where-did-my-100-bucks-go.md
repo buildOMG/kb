@@ -1,6 +1,6 @@
 # Dear bank, where did my 100 bucks go?
 
-**Dear bank, where did my 100 bucks go?**
+## _\*\*\*\*_[_**Dear bank, where did my 100 bucks go?**_](https://youtu.be/mC--g57lylQ)\_\_
 
 Vansa begins her presentation by outlining a major pain-point that exists within the online banking industry: coordination and interoperability. Specifically, the financial and time costs that are incurred as a result of the current antiquated infrastructure. At present, it is a greatly labored process, when wanting to transact funds between two different banking services. Sending funds across boarders and jurisdictions is difficult because:
 

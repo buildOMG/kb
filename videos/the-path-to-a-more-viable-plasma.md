@@ -1,5 +1,7 @@
 # The path to a more viable plasma
 
+## \_\_[_The path to a more viable plasma_](https://youtu.be/ONbrhJDCpi8?t=2827)\_\_
+
 Just in case people don't have time to watch the video, I have written a brief summary of Kasima's presentation here:
 
 Kasima Tharnpipitchai runs through a brief overview of the plasma architecture, outlining that it is a layer 2 scaling solution for Ethereum, and that it is still heavily under research. He shows graphically how the plasma chain will interact with the root chain contract on Ethereum, and includes a simple overview of deposits and exits. Plasma is then split into two 'flavours' as he calls them, one being **fungible** and the other **non-fungible**.

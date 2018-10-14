@@ -1,5 +1,9 @@
 # Business development
 
+{% hint style="warning" %}
+_Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
+{% endhint %}
+
 OmiseGO takes an integrated approach to community engagement and business development. "True crypto projects build communities, not consumers." It also becomes difficult to separate community engagement from business development when you are simultaneously creating a completely free and open source product and an n-sided marketplace; your success depends on the health of a complex ecosystem of partners and collaborators; and your product is equally aimed at enterprise providers and individuals operating entirely free of intermediaries.
 
 Implementing this approach, OmiseGO has done no paid marketing \(including bounties\) and provided no discounts during its crowdsale to anyone, including VCs and media groups. Nonetheless, the OmiseGO subreddit and Twitter account have the highest subscription rates of any Ethereum project so far.   

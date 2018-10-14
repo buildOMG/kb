@@ -1,11 +1,8 @@
----
-description: >-
-  Please note, the knowledge base is a work in progress. OMG is still in
-  development, and some details cannot yet be included. The KB will be revised
-  regularly to include updates and additional details.
----
-
 # Official AMAs
+
+{% hint style="warning" %}
+_Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
+{% endhint %}
 
 #### The Cosmos hard spoon has been described as a "test net" by community members, but in a blog post you mention "healthy competition". Can you clarify this token's short term and long term purpose? \(i.e. where will volume come from, who will be managing/promoting it, and is it something that will be supported long term or dropped in favor of Plasma?\)
 

@@ -1,6 +1,6 @@
 # Decentralizing Consensus
 
-_**Decentralizing Consensus:**_ **David Knott**
+## _\*\*\*\*_[_**Decentralizing Consensus:**_ **David Knott**](https://www.youtube.com/watch?v=iOAD3IpOJ0A)
 
 **People and blockchains**
 
