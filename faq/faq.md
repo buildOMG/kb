@@ -5,7 +5,7 @@ description: >-
   regularly to include updates and additional details.
 ---
 
-# Top Community Answers
+# Community Q&A
 
 ## Can you explain what OmiseGO is in one sentence to an idiot like me?
 

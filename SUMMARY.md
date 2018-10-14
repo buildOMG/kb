@@ -33,7 +33,8 @@
 
 ## FAQ
 
-* [Top Community Answers](faq/faq.md)
+* [Community Q&A](faq/faq.md)
+* [Official AMAs](faq/official-amas.md)
 
 ## OMG Network
 
