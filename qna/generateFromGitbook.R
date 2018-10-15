@@ -70,7 +70,7 @@ union
 
 # Drop the deep-dive stuff
 qna_q <- qna_q[(setdiff(1:nrow(qna_q), grep('deep-dive', qna_q$answer))),]
-
+qna_q$answer <- str_replace_all(qna_q$answer, fixed('.md'), '')
 
 # TODO: remove local ref here. Will do this if I add a project. Most likely will mode to Python though
 write_tsv(qna_q, 'c:/source/sa/OMQ/kb2/qna/qna_gitbook.tsv')
