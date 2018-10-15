@@ -337,9 +337,9 @@ _Please note: the OMG Network is still in development, and some details cannot y
 #### How do the fees work on a Plasma Cash chain? If it is difficult to split coins into small amounts \(and merge them again\) how do you plan to handle the tiny transactions fees on each transaction?
 
 > Merging and splitting is generally difficult, but there are a few proposals to take fees without a merging/splitting construction. Vitalik’s original proposal here was that each coin would specify a “total fee” that must increase from transaction to transaction, although this ruins nicely denominated coins. This is a problem we expect to be convincingly solved as we figure out the most efficient merging/splitting design.
->
-> First, thank you for doing this AMA. There is a great community behind your project, & this will help reassure everyone their money is invested in the right place. How big of a priority is the ease of token holders being able to stake? There has been discussion of OMG purchasing an exchange. Will stakeholders be able to stake directly through this exchange?
->
+
+#### First, thank you for doing this AMA. There is a great community behind your project, & this will help reassure everyone their money is invested in the right place. How big of a priority is the ease of token holders being able to stake? There has been discussion of OMG purchasing an exchange. Will stakeholders be able to stake directly through this exchange?
+
 > Safety and ease of use with regards to staking are of the utmost importance to us. We’re working to create as many avenues for staking as possible to make staking as easy as possible.  
 >   
 > Generally speaking, we expect many parties ranging from exchanges to wallets to take part in and benefit from staking.
@@ -352,7 +352,7 @@ _Please note: the OMG Network is still in development, and some details cannot y
 
 > See roadmap: [https://blog.omisego.network/omisego-roadmap-update-94819e20ada2](https://blog.omisego.network/omisego-roadmap-update-94819e20ada2)
 
-#### What will looks like "Cosmos DEX" & "Plasma DEX"s UX/UI? Will it like _Binance & Poloniex_ **OR** _Shapeshift & KyberNetwork & Airswap_?
+#### What will looks like "Cosmos DEX" & "Plasma DEX"s UX/UI? Will it like _Binance & Poloniex_ **OR** _Shapeshift & Kyber Network & Airswap_?
 
 > The user interfaces for the OMG DEX will be determined by the use case and how the application is integrated to the DEX. For example, an interface for the DEX may not be present if an exchange is performed behind the scenes. If the user is performing a foreign exchange transaction, they would be presented with an interface familiar to placing a FX order.
 
