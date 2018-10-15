@@ -25,10 +25,10 @@
   * [Unbanking the Banked](omisego-official-guide-1/key-concepts/unbanking-the-banked.md)
 * [Who will use the network?](omisego-official-guide-1/who-will-use-the-network.md)
 * [What will OmiseGO do with themselves once the network is built?](omisego-official-guide-1/what-will-omisego-do-with-themselves-once-the-network-is-built.md)
-* [How does OMG provide security, scalability and adoption?](omisego-official-guide-1/how-does-omg-provide-for.../README.md)
-  * [Security?](omisego-official-guide-1/how-does-omg-provide-for.../security.md)
-  * [Scalability?](omisego-official-guide-1/how-does-omg-provide-for.../scalability.md)
-  * [Mainstream Adoption?](omisego-official-guide-1/how-does-omg-provide-for.../mainstream-adoption.md)
+* [How does OMG provide security, scalability and adoption?](omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/README.md)
+  * [Security?](omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/security.md)
+  * [Scalability?](omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/scalability.md)
+  * [Mainstream Adoption?](omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)
 * [Community & Communication](omisego-official-guide-1/community-and-communication.md)
 
 ## FAQ
