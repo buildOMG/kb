@@ -65,7 +65,7 @@ union
                ,'See: ' || link as answer
                ,'GitBook' as source
                ,'' as meta
-               from [bookNotQuestions]
+               from [bookQuestions]
                ")
 
 # Drop the deep-dive stuff

@@ -1,11 +1,5 @@
 question	answer	source	meta
-Community & Communication	See: [Community & Communication](https://kb.omgcommunity.org/omisego-official-guide-1/community-and-communication)	GitBook	
-Community Q&A	See: [Community Q&A](https://kb.omgcommunity.org/faq/faq)	GitBook	
-Decentralized Cash In/Out Layer	See: [Decentralized Cash In/Out Layer](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/decentralized-cash-in-out-layer)	GitBook	
-Decentralized Exchange \(DEX\)	See: [Decentralized Exchange \(https://kb.omgcommunity.org/DEX\)](https://kb.omgcommunity.org/DEX\)](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/decentralized-exchange-dex)	GitBook	
-Decentralized Network	See: [Decentralized Network](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/decentralized-network)	GitBook	
-Decentralizing Consensus	See: [Decentralizing Consensus](https://kb.omgcommunity.org/videos/decentralizing-consensus)	GitBook	
-Hazards of Centralization	See: [Hazards of Centralization](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/hazards-of-centralization)	GitBook	
+Dear bank, where did my 100 bucks go?	See: [Dear bank, where did my 100 bucks go?](https://kb.omgcommunity.org/videos/dear-bank-where-did-my-100-bucks-go)	GitBook	
 How about  Community & Communication?	See: [Community & Communication](https://kb.omgcommunity.org/omisego-official-guide-1/community-and-communication)	GitBook	
 How about  Community Q&A?	See: [Community Q&A](https://kb.omgcommunity.org/faq/faq)	GitBook	
 How about  Decentralized Cash In/Out Layer?	See: [Decentralized Cash In/Out Layer](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/decentralized-cash-in-out-layer)	GitBook	
@@ -33,20 +27,11 @@ How about  Token burning?	See: [Token burning](https://kb.omgcommunity.org/initi
 How about  Unbanking the Banked?	See: [Unbanking the Banked](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/unbanking-the-banked)	GitBook	
 How about  White-label Wallet Software Development Kit \(SDK\)?	See: [White-label Wallet Software Development Kit \(https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/white-label-wallet-software-development-kit-sdk)	GitBook	
 How about  eWallet Suite?	See: [eWallet Suite](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/ewallet-suite)	GitBook	
-Key concepts	See: [Key concepts](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/README)	GitBook	
-OMG Network	See: [OMG Network](https://kb.omgcommunity.org/omg-network/omg-network)	GitBook	
-OMG Network Knowledge Base	See: [OMG Network Knowledge Base](https://kb.omgcommunity.org/README)	GitBook	
-OMG basics	See: [OMG basics](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/README)	GitBook	
-OMG token	See: [OMG token](https://kb.omgcommunity.org/omg-network/omg-token)	GitBook	
-OMG token allocation & airdrop	See: [OMG token allocation & airdrop](https://kb.omgcommunity.org/omisego-official-guide-1/how-was-omisego-launched/omg-token-allocation-and-airdrop)	GitBook	
-OMG token function	See: [OMG token function](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/omg-token-function)	GitBook	
-Official AMAs	See: [Official AMAs](https://kb.omgcommunity.org/faq/official-amas)	GitBook	
-Plasma: The Basics	See: [Plasma: The Basics](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/plasma-the-basics)	GitBook	
-PoA	See: [PoA](https://kb.omgcommunity.org/initial-release/poa)	GitBook	
-Proof of Stake \(PoS\)	See: [Proof of Stake \(https://kb.omgcommunity.org/PoS\)](https://kb.omgcommunity.org/PoS\)](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/proof-of-stake-pos)	GitBook	
-Roadmap	See: [Roadmap](https://kb.omgcommunity.org/omg-network/roadmap)	GitBook	
-Scalability Network Mechanism	See: [Scalability Network Mechanism](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/scalability-network-mechanism)	GitBook	
-Scalability with Plasma	See: [Scalability with Plasma](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/scalability-with-plasma)	GitBook	
+How does OMG provide security, scalability and adoption?	See: [How does OMG provide security, scalability and adoption?](https://kb.omgcommunity.org/omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/README)	GitBook	
+How was OmiseGO launched?	See: [How was OmiseGO launched?](https://kb.omgcommunity.org/omisego-official-guide-1/how-was-omisego-launched/README)	GitBook	
+Mainstream Adoption?	See: [Mainstream Adoption?](https://kb.omgcommunity.org/omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/mainstream-adoption)	GitBook	
+Scalability?	See: [Scalability?](https://kb.omgcommunity.org/omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/scalability)	GitBook	
+Security?	See: [Security?](https://kb.omgcommunity.org/omisego-official-guide-1/how-does-omg-provide-security-scalability-adoption/security)	GitBook	
 Tell me about  Community & Communication?	See: [Community & Communication](https://kb.omgcommunity.org/omisego-official-guide-1/community-and-communication)	GitBook	
 Tell me about  Community Q&A?	See: [Community Q&A](https://kb.omgcommunity.org/faq/faq)	GitBook	
 Tell me about  Decentralized Cash In/Out Layer?	See: [Decentralized Cash In/Out Layer](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/decentralized-cash-in-out-layer)	GitBook	
@@ -74,10 +59,6 @@ Tell me about  Token burning?	See: [Token burning](https://kb.omgcommunity.org/i
 Tell me about  Unbanking the Banked?	See: [Unbanking the Banked](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/unbanking-the-banked)	GitBook	
 Tell me about  White-label Wallet Software Development Kit \(SDK\)?	See: [White-label Wallet Software Development Kit \(https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/white-label-wallet-software-development-kit-sdk)	GitBook	
 Tell me about  eWallet Suite?	See: [eWallet Suite](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/ewallet-suite)	GitBook	
-Tengen: the end game	See: [Tengen: the end game](https://kb.omgcommunity.org/omg-network/tengen-the-end-game)	GitBook	
-The path to a more viable plasma	See: [The path to a more viable plasma](https://kb.omgcommunity.org/videos/the-path-to-a-more-viable-plasma)	GitBook	
-Token burning	See: [Token burning](https://kb.omgcommunity.org/initial-release/token-burning)	GitBook	
-Unbanking the Banked	See: [Unbanking the Banked](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/unbanking-the-banked)	GitBook	
 What is  Community & Communication?	See: [Community & Communication](https://kb.omgcommunity.org/omisego-official-guide-1/community-and-communication)	GitBook	
 What is  Community Q&A?	See: [Community Q&A](https://kb.omgcommunity.org/faq/faq)	GitBook	
 What is  Decentralized Cash In/Out Layer?	See: [Decentralized Cash In/Out Layer](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/decentralized-cash-in-out-layer)	GitBook	
@@ -105,5 +86,10 @@ What is  Token burning?	See: [Token burning](https://kb.omgcommunity.org/initial
 What is  Unbanking the Banked?	See: [Unbanking the Banked](https://kb.omgcommunity.org/omisego-official-guide-1/key-concepts/unbanking-the-banked)	GitBook	
 What is  White-label Wallet Software Development Kit \(SDK\)?	See: [White-label Wallet Software Development Kit \(https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/white-label-wallet-software-development-kit-sdk)	GitBook	
 What is  eWallet Suite?	See: [eWallet Suite](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/ewallet-suite)	GitBook	
-White-label Wallet Software Development Kit \(SDK\)	See: [White-label Wallet Software Development Kit \(https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/SDK\)](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/white-label-wallet-software-development-kit-sdk)	GitBook	
-eWallet Suite	See: [eWallet Suite](https://kb.omgcommunity.org/omisego-official-guide-1/omg-basics/ewallet-suite)	GitBook	
+What is OmiseGO?	See: [What is OmiseGO?](https://kb.omgcommunity.org/omisego-official-guide-1/what-is-omisego)	GitBook	
+What is included?	See: [What is included?](https://kb.omgcommunity.org/initial-release/what-is-included)	GitBook	
+What is the OMG network ?	See: [What is the OMG network ?](https://kb.omgcommunity.org/omg-network/what-is-the-omg-network)	GitBook	
+What will OmiseGO do with themselves once the network is built?	See: [What will OmiseGO do with themselves once the network is built?](https://kb.omgcommunity.org/omisego-official-guide-1/what-will-omisego-do-with-themselves-once-the-network-is-built)	GitBook	
+Who will use the network?	See: [Who will use the network?](https://kb.omgcommunity.org/omisego-official-guide-1/who-will-use-the-network)	GitBook	
+Why did a for-profit company choose to invest in building a public network?	See: [Why did a for-profit company choose to invest in building a public network?](https://kb.omgcommunity.org/omisego-official-guide-1/why-did-a-for-profit-company-choose-to-invest-in-building-a-public-network)	GitBook	
+Why do we need OMG?	See: [Why do we need OMG?](https://kb.omgcommunity.org/omisego-official-guide-1/why-do-we-need-omg)	GitBook	
