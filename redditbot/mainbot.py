@@ -105,6 +105,7 @@ def bot_run(reddit, masub):
                 question = comment.body.replace('!qna ', '')
                 answer = GetAnswer(question)
                 comment.reply(answer)
+                time.sleep(1) # Play nice with the Reddit rate limit
             else:
                 logger.warn('Replying DISABLED')
             with open("comments_replied_to.txt", "a") as f:

@@ -1,0 +1,7 @@
+FROM python:3.5
+WORKDIR /usr/src/app
+COPY requirements.txt ./
+RUN pip install --default-timeout=120 --no-cache-dir -r requirements.txt
+COPY *.py ./
+COPY config.ini ./
+ENTRYPOINT ["python", "mainbot.py", "--daemon"]
