@@ -1,5 +1,5 @@
 require(pacman)
-p_load(sqldf,magrittr,stringr,readr,phrasemachine,plyr)
+p_load(sqldf,magrittr,stringr,readr,phrasemachine,plyr,httr,qdapRegex,futile.logger)
 
 # TODO: move all this to Python
 
@@ -33,13 +33,26 @@ qgen <- function(y, ans, x=''){
 root <- 'https://kb.omgcommunity.org/'
 summaryLines <- read_lines('https://raw.githubusercontent.com/buildOMG/kb/master/SUMMARY.md')
 summaryLines <- summaryLines[grep('.*\\[.*\\].*', summaryLines)]
+
+xxx <- str_extract_all(summaryLines, '\\[.*\\]')
+yyy <- str_extract_all(summaryLines, "\\([^()]+\\)")
+
+titles <- vector()
+for (i in 1:length(xxx)){
+  titles[i] <- head(xxx[i][[1]], 1)
+}
+links <- vector()
+for (i in 1:length(yyy)){
+  links[i] <- tail(yyy[i][[1]], 1)
+}
+
 links <- paste(
-  str_extract_all(summaryLines, '\\[.*\\]')
-  ,str_extract_all(summaryLines, '\\(.*\\)')
+  titles
+  ,links
   ,sep=''
 ) %>% as.data.frame()
 colnames(links) <- c('link')
-links$link <- str_replace_all(links$link, fixed('('), paste0('(', root))
+##links$link <- str_replace_all(links$link, fixed('('), paste0('(', root))
 links$q <- str_replace_all(str_replace_all(str_extract_all(summaryLines, '\\[.*\\]'), fixed('['), ''), fixed(']'), '')
 links <- links[,c(2,1)]
 links <- links[links$q != 'Current state',]
@@ -72,7 +85,19 @@ union
 qna_q <- qna_q[(setdiff(1:nrow(qna_q), grep('deep-dive', qna_q$answer))),]
 qna_q$answer <- str_replace_all(qna_q$answer, fixed('.md'), '')
 
-# TODO: test all of the auto-generated links here?
+
+# test all of the auto-generated links here?
+for(i in 1:length(qna_q$answer)){
+#for(i in 1:5){
+  # url <- ex_url(qna_q$answer[i], pattern = "@rm_url3")[[1]]
+  url <- tail(str_extract_all(qna_q$answer[i], "\\([^()]+\\)")[[1]], 1)
+  url <- paste0(root, str_sub(url, 2, str_length(url)-1))
+  flog.info("Testing URL %s", url)
+  tryCatch(
+    !http_error(url, config(followlocation = 0L), USE.NAMES = FALSE),
+    error = function(e) flog.error("URL FAILED: %s", url)
+  )
+}
 
 # TODO: remove local ref here. Will do this if I add a project. Most likely will mode to Python though
 write_tsv(qna_q, 'c:/source/sa/OMQ/kb2/qna/qna_gitbook.tsv')
