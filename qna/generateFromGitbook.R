@@ -43,7 +43,8 @@ for (i in 1:length(xxx)){
 }
 links <- vector()
 for (i in 1:length(yyy)){
-  links[i] <- tail(yyy[i][[1]], 1)
+  url <- tail(yyy[i][[1]], 1)
+  links[i] <- paste0('(', root, str_sub(url, 2, str_length(url)-1), ')')
 }
 
 links <- paste(
@@ -91,7 +92,7 @@ for(i in 1:length(qna_q$answer)){
 #for(i in 1:5){
   # url <- ex_url(qna_q$answer[i], pattern = "@rm_url3")[[1]]
   url <- tail(str_extract_all(qna_q$answer[i], "\\([^()]+\\)")[[1]], 1)
-  url <- paste0(root, str_sub(url, 2, str_length(url)-1))
+  url <- str_sub(url, 2, str_length(url)-1)
   flog.info("Testing URL %s", url)
   tryCatch(
     !http_error(url, config(followlocation = 0L), USE.NAMES = FALSE),
