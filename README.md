@@ -73,3 +73,7 @@ _Please note: the OMG Network is still in development, and some details cannot y
   * OMG has proven a deep implication in the Ethereum ecosystem by giving a grant to the ECF \(iirc\) and being involved with Ethereum founders and core team since 20XX. It also shares its mission by building a fully decentralized network, completely open source.
 * Conclusion: This post might have given a better overview of what OMG is building in this very young and fast-growing space. There is obviously a lot more to it, to dive deeper, check out the KB \(link\) and engage by joining our awesome community \(link to... reddit?!\)
 
+## Official AMAs
+
+
+

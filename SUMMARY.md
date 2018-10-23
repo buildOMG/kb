@@ -1,6 +1,7 @@
 # Table of contents
 
 * [OMG Network Knowledge Base](README.md)
+* [Knowledge Base Index](kb.md)
 
 ## OmiseGO Official Guide
 
