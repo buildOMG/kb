@@ -1,6 +1,6 @@
 # Knowledge Base Index
 
-* [OMG Network Knowledge Base](README.md)
+* [OMG Network Knowledge Base](./)
 * [Knowledge Base Index](kb.md)
 
 ## OmiseGO Official Guide
@@ -8,15 +8,15 @@
 * [What is OmiseGO?](omisego-official-guide/what-is-omisego.md)
 * [Why do we need OMG?](omisego-official-guide/why-do-we-need-omg.md)
 * [Why did a for-profit company choose to invest in building a public network?](omisego-official-guide/why-did-a-for-profit-company-choose-to-invest-in-building-a-public-network.md)
-* [How was OmiseGO launched?](omisego-official-guide/how-was-omisego-launched/README.md)
+* [How was OmiseGO launched?](omisego-official-guide/how-was-omisego-launched/)
   * [OMG token allocation & airdrop](omisego-official-guide/how-was-omisego-launched/omg-token-allocation-and-airdrop.md)
-* [OMG basics](omisego-official-guide/omg-basics/README.md)
+* [OMG basics](omisego-official-guide/omg-basics/)
   * [eWallet Suite](omisego-official-guide/omg-basics/ewallet-suite.md)
   * [White-label Wallet Software Development Kit \(SDK\)](omisego-official-guide/omg-basics/white-label-wallet-software-development-kit-sdk.md)
   * [Decentralized Exchange \(DEX\)](omisego-official-guide/omg-basics/decentralized-exchange-dex.md)
   * [Scalability Network Mechanism](omisego-official-guide/omg-basics/scalability-network-mechanism.md)
   * [Decentralized Cash In/Out Layer](omisego-official-guide/omg-basics/decentralized-cash-in-out-layer.md)
-* [Key concepts](omisego-official-guide/key-concepts/README.md)
+* [Key concepts](omisego-official-guide/key-concepts/)
   * [Decentralized Network](omisego-official-guide/key-concepts/decentralized-network.md)
   * [Proof of Stake \(PoS\)](omisego-official-guide/key-concepts/proof-of-stake-pos.md)
   * [OMG token function](omisego-official-guide/key-concepts/omg-token-function.md)
@@ -26,7 +26,7 @@
   * [Unbanking the Banked](omisego-official-guide/key-concepts/unbanking-the-banked.md)
 * [Who will use the network?](omisego-official-guide/who-will-use-the-network.md)
 * [What will OmiseGO do with themselves once the network is built?](omisego-official-guide/what-will-omisego-do-with-themselves-once-the-network-is-built.md)
-* [How does OMG provide security, scalability and adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/README.md)
+* [How does OMG provide security, scalability and adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/)
   * [Security?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/security.md)
   * [Scalability?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/scalability.md)
   * [Mainstream Adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)
@@ -53,29 +53,29 @@
 
 ## Deep dive
 
-* [DEX/Exchanges](deep-dive/dex-exchanges/README.md)
+* [DEX/Exchanges](deep-dive/dex-exchanges/)
   * [What is a DEX?](deep-dive/dex-exchanges/what-is-a-dex.md)
   * [Current state](deep-dive/dex-exchanges/current-state.md)
   * [Acquiring exchanges](deep-dive/dex-exchanges/acquiring-exchanges.md)
-* [eWallet Suite](deep-dive/ewallet-suite/README.md)
+* [eWallet Suite](deep-dive/ewallet-suite/)
   * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
   * [Current state](deep-dive/ewallet-suite/current-state.md)
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
-* [Plasma](deep-dive/plasma/README.md)
+* [Plasma](deep-dive/plasma/)
   * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
   * [Current state](deep-dive/plasma/current-state.md)
   * [Plasma MVP](deep-dive/plasma/plasma-mvp.md)
-* [Cash in/out](deep-dive/cash-in-out-1/README.md)
+* [Cash in/out](deep-dive/cash-in-out-1/)
   * [What is Cash in/out ?](deep-dive/cash-in-out-1/what-is-cash-in-out.md)
   * [Current state](deep-dive/cash-in-out-1/current-state.md)
-* [Staking](deep-dive/staking/README.md)
+* [Staking](deep-dive/staking/)
   * [What does staking means ?](deep-dive/staking/what-does-staking-means.md)
   * [Current state](deep-dive/staking/current-state-1.md)
-* [Interoperability](deep-dive/interoperability/README.md)
+* [Interoperability](deep-dive/interoperability/)
   * [What does interoperability means ?](deep-dive/interoperability/what-does-interoperability-means.md)
   * [Current state](deep-dive/interoperability/current-state-2.md)
-* [Business development](deep-dive/business-development/README.md)
+* [Business development](deep-dive/business-development/)
   * [Omise](deep-dive/business-development/omise.md)
   * [Partnerships](deep-dive/business-development/partnerships.md)
 
@@ -89,8 +89,7 @@
 
 * [Official AMAs](faq/official-amas.md)
 
-
-### The Cosmos hard spoon has been described as a "test net" by community members, but in a blog post you mention "healthy competition". Can you clarify this token's short term and long term purpose? \(i.e. where will volume come from, who will be managing/promoting it, and is it something that will be supported long term or dropped in favor of Plasma?\)
+### [The Cosmos hard spoon has been described as a "test net" by community members, but in a blog post you mention "healthy competition". Can you clarify this token's short term and long term purpose? \(i.e. where will volume come from, who will be managing/promoting it, and is it something that will be supported long term or dropped in favor of Plasma?\)](https://kb.omgcommunity.org/kb#the-cosmos-hard-spoon-has-been-described-as-a-test-net-by-community-members-but-in-a-blog-post-you-mention-healthy-competition-can-you-clarify-this-tokens-short-term-and-long-term-purpose-i-e-where-will-volume-come-from-who-will-be-managing-promoting-it-and-is-it-something-that-will-be-supported-long-term-or-dropped-in-favor-of-plasma)
 
 > OmiseGO’s roadmap, from the whitepaper onwards, has been committed to bringing the Plasma decentralized exchange to life, and in doing so, serving as the showcase for Plasma itself. However, we have long recognized the very significant potential that Cosmos and Tendermint bring to the public network space, and we have supported Cosmos’ “Internet of Blockchains” concept since 2016.  
 >   
@@ -98,15 +97,15 @@
 >   
 > This is part of the “healthy competition” we were referring to: the competition between two separate technically competent and highly motivated teams with mad respect for each other’s abilities.
 
-### And to build on this question, if it’s healthy competition then does that mean OMG could conceivably be lesser value than the “CosmOMG” token? Is the market supposed to work it out? Is in the “CosmOMG” token supposed to take the place of that OMG token?
+### [And to build on this question, if it’s healthy competition then does that mean OMG could conceivably be lesser value than the “CosmOMG” token? Is the market supposed to work it out? Is in the “CosmOMG” token supposed to take the place of that OMG token?](https://kb.omgcommunity.org/kb#and-to-build-on-this-question-if-its-healthy-competition-then-does-that-mean-omg-could-conceivably-be-lesser-value-than-the-cosmomg-token-is-the-market-supposed-to-work-it-out-is-in-the-cosmomg-token-supposed-to-take-the-place-of-that-omg-token)
 
 > Depends on which token-staked network has more demand: OMG Plasma \(Tesuji and beyond\), or Cosmos OMG? OmiseGO will continue a DEX using Plasma OMG for staking, though it’s important to remember that both Plasma OMG and Cosmos OMG are subject to the will of the market. That means you, and everyone else who is a stakeholder in this project in one way or another \(including non-staking users\), decides together. We are confident Plasma OMG will be a great product, attracting high volume and level of use, regardless of how impressive the Cosmos OMG team’s work is too.
 
-### Will the team create a staking pool that is trustworthy and reliable for smaller holders to join? If not will the team endorse or officially review and approve the smart contract of at least one such staking pool in order to help less technologically inclined stakers?
+### [Will the team create a staking pool that is trustworthy and reliable for smaller holders to join? If not will the team endorse or officially review and approve the smart contract of at least one such staking pool in order to help less technologically inclined stakers?](https://kb.omgcommunity.org/kb#will-the-team-create-a-staking-pool-that-is-trustworthy-and-reliable-for-smaller-holders-to-join-if-not-will-the-team-endorse-or-officially-review-and-approve-the-smart-contract-of-at-least-one-such-staking-pool-in-order-to-help-less-technologically-inclined-stakers)
 
 > OmiseGO is building the OMG platform, and are not responsible for the actions of staking pools run by other parties. That said, OmiseGO will be open about which staking pools we trust with our own tokens.
 
-### Will big NDAs ever be lifted and approximately when if so?
+### [Will big NDAs ever be lifted and approximately when if so?](https://kb.omgcommunity.org/kb#will-big-ndas-ever-be-lifted-and-approximately-when-if-so)
 
 > Of course they will be lifted, when the work is closer to completion. We really can’t talk about them yet.
 
@@ -172,7 +171,7 @@
 
 > The OMG Network will be a decentralized network and as such OMG validators will determine the fees they accept and through that the staking revenue they make.
 
-### Staking fees will be set by the stakers/pools themselves, not by Omise. Pretty sure this has been said in many places, but maybe I'm full of nonsense. So if you want a range, it's going to be 0% &lt; OMG &lt; VISA.  _\*\*_A better question might be, will transactors be able to select a staker/pool for their transactions, causing internal competition; or will transactions be randomly assigned to a staker/pool, ensuring the only competition is external?
+### Staking fees will be set by the stakers/pools themselves, not by Omise. Pretty sure this has been said in many places, but maybe I'm full of nonsense. So if you want a range, it's going to be 0% &lt; OMG &lt; VISA.  \_\*\*\_A better question might be, will transactors be able to select a staker/pool for their transactions, causing internal competition; or will transactions be randomly assigned to a staker/pool, ensuring the only competition is external?
 
 > Transactors using the OMG Network will have two options: \(i\) to either submit a transaction directly to the OMG Network where block proposers will choose whether or not include it in the chain or \(ii\) to pay a block proposer to include their transaction by N block, and if the transaction is not included the block proposer is punished.
 
@@ -298,7 +297,7 @@
 
 > Supporting fiat on decentralized exchanges can generally only be done in one way: some centralized entity creates a fiat-backed on-chain token \(ie. like Tether\), and manages conversions between banking system fiat \(or other mechanisms, like cash going into ATMs, cards bought at convenience stores, etc\) and the on-chain token; the decentralized exchange then manages the conversion between the various on-chain tokens, and does not really care about what those tokens represent.  
 >   
-> _\*\*_In practice, one of OmiseGO’s immediate targets is improving interoperability between existing wallet providers that have already crossed those regulatory hurdles, and so the intention will be that these wallet providers would become on-chain token issuers, using the Plasma chain for accounting.
+> \_\*\*\_In practice, one of OmiseGO’s immediate targets is improving interoperability between existing wallet providers that have already crossed those regulatory hurdles, and so the intention will be that these wallet providers would become on-chain token issuers, using the Plasma chain for accounting.
 
 **What will merchants use to deposit fiat into the DEX \(Cash, Credit Card, Etc\)? What suggests credit card companies will allow fiat deposits into the OmiseGo DEX?**
 
@@ -312,7 +311,7 @@
 
 > The only competition is who can provide the best and most fair and desirable financial access systems. We will be excited if we build an iteration of more optimal systems but also happy if others can join us in this mission.
 
-### I understand that OMG and Tendermint have been working together - but how does having two DEX's help in any way? Will the wallet SDK connect to the Tendermint DEX as well? Won't the Tendermint DEX suck liquidity from the OMG one, and vice versa?  _\*\*_My question is, what is the advantage \(to anyone\) of duplicating a DEX on tendermint, or is it just for the hell of it?
+### I understand that OMG and Tendermint have been working together - but how does having two DEX's help in any way? Will the wallet SDK connect to the Tendermint DEX as well? Won't the Tendermint DEX suck liquidity from the OMG one, and vice versa?  \_\*\*\_My question is, what is the advantage \(to anyone\) of duplicating a DEX on tendermint, or is it just for the hell of it?
 
 > More DEXes means more optionality for users, and competition spurs innovation - even more so in an open source environment where both progress and failures are stored in the memory of the commons. We are actively exploring support for both exchanges in the wallet SDK.All exchanges want to eat up as much liquidity as possible; ours will be no different.  
 >   
