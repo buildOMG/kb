@@ -18,9 +18,7 @@ import http.client
 import urllib.parse
 import time
 
-
 pysqldf = lambda q: sqldf(q, globals())
-
 
 def UtcNow():
     now = datetime.datetime.utcnow()
@@ -104,8 +102,12 @@ def bot_run(reddit, masub):
                 logger.info('Replying to request')
                 question = comment.body.replace('!qna ', '')
                 answer = GetAnswer(question)
-                comment.reply(answer)
-                time.sleep(1) # Play nice with the Reddit rate limit
+                try:
+                    comment.reply(answer)
+                except Exception as e:
+                    logger.error(e)
+                    time.sleep(60) # Play nice with the Reddit rate limit
+                time.sleep(30) # Play nice with the Reddit rate limit
             else:
                 logger.warn('Replying DISABLED')
             with open("comments_replied_to.txt", "a") as f:
@@ -209,7 +211,7 @@ def AskAnswer(conf, question):
     conn = http.client.HTTPSConnection(conf.host)
     conn.request ("POST", path, content, headers)
     response = conn.getresponse()
-    return response.read()
+    return response.read().decode('utf-8')
 
 def GetAnswer(question):
     conf = kb_login('REDDIT_CONFIG1')

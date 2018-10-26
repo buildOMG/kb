@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: redditbot
+spec:
+  selector:
+    matchLabels:
+      run: redditbot
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        run: redditbot
+    spec:
+      containers:
+      - name: redditbot
+        image: hpeacr.azurecr.io/redditbot:v5
+      imagePullSecrets:
+        - name: acrcred
