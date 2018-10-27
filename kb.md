@@ -64,7 +64,7 @@
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
 * [Plasma](deep-dive/plasma/)
   * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
-  * [Current state](deep-dive/plasma/current-state.md)
+  * [Current state](deep-dive/plasma/current-state/)
   * [Plasma MVP](deep-dive/plasma/plasma-mvp.md)
 * [Cash in/out](deep-dive/cash-in-out-1/)
   * [What is Cash in/out ?](deep-dive/cash-in-out-1/what-is-cash-in-out.md)
