@@ -56,7 +56,7 @@
 * [DEX/Exchanges](deep-dive/dex-exchanges/)
   * [What is a DEX?](deep-dive/dex-exchanges/what-is-a-dex.md)
   * [Current state](deep-dive/dex-exchanges/current-state.md)
-  * [Acquiring exchanges](deep-dive/dex-exchanges/acquiring-exchanges.md)
+  * [Acquiring exchanges]()
 * [eWallet Suite](deep-dive/ewallet-suite/)
   * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)

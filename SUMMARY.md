@@ -56,8 +56,8 @@
 
 * [DEX/Exchanges](deep-dive/dex-exchanges/README.md)
   * [What is a DEX?](deep-dive/dex-exchanges/what-is-a-dex.md)
+  * [OMG DEX Design](deep-dive/dex-exchanges/omg-dex-design.md)
   * [Current state](deep-dive/dex-exchanges/current-state.md)
-  * [Acquiring exchanges](deep-dive/dex-exchanges/acquiring-exchanges.md)
 * [eWallet Suite](deep-dive/ewallet-suite/README.md)
   * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
@@ -80,7 +80,7 @@
   * [What does staking means ?](deep-dive/staking/what-does-staking-means.md)
   * [Current state](deep-dive/staking/current-state-1.md)
 * [Interoperability](deep-dive/interoperability/README.md)
-  * [What does interoperability means ?](deep-dive/interoperability/what-does-interoperability-means.md)
+  * [What does interoperability mean?](deep-dive/interoperability/what-does-interoperability-means.md)
   * [Current state](deep-dive/interoperability/current-state-2.md)
 * [Business development](deep-dive/business-development/README.md)
   * [Omise](deep-dive/business-development/omise.md)
