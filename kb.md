@@ -39,7 +39,7 @@
 ## OMG Network
 
 * [OMG Network](omg-network/omg-network.md)
-* [What is the OMG network ?](omg-network/what-is-the-omg-network.md)
+* [What is the OMG network ?](omg-network/what-is-the-omg-network/)
 * [OMG token](omg-network/omg-token.md)
 * [Roadmap](omg-network/roadmap.md)
 * [Tengen: the end game](omg-network/tengen-the-end-game.md)
