@@ -87,7 +87,7 @@
 
 ## AMAs
 
-* [Official AMAs](faq/official-amas.md)
+* [Official AMAs](faq/official-amas-1/official-amas.md)
 
 ### [The Cosmos hard spoon has been described as a "test net" by community members, but in a blog post you mention "healthy competition". Can you clarify this token's short term and long term purpose? \(i.e. where will volume come from, who will be managing/promoting it, and is it something that will be supported long term or dropped in favor of Plasma?\)](https://kb.omgcommunity.org/kb#the-cosmos-hard-spoon-has-been-described-as-a-test-net-by-community-members-but-in-a-blog-post-you-mention-healthy-competition-can-you-clarify-this-tokens-short-term-and-long-term-purpose-i-e-where-will-volume-come-from-who-will-be-managing-promoting-it-and-is-it-something-that-will-be-supported-long-term-or-dropped-in-favor-of-plasma)
 
@@ -513,5 +513,5 @@
 
 > We actually kind of liked this idea, but based on its own logic it should be pretty low on our priority list due to the number of downvotes.
 
-\*\*\*\*
+
 

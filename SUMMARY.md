@@ -35,7 +35,9 @@
 ## FAQ
 
 * [Community Q&A](faq/faq.md)
-* [Official AMAs](faq/official-amas.md)
+* [Official AMAs](faq/official-amas-1/README.md)
+  * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
+  * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
 
 ## OMG Network
 
