@@ -60,7 +60,7 @@
 * [eWallet Suite](deep-dive/ewallet-suite/)
   * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
-  * [Current state](deep-dive/ewallet-suite/current-state.md)
+  * [Current state](deep-dive/ewallet-suite/current-state/)
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
 * [Plasma](deep-dive/plasma/)
   * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
