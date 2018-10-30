@@ -38,6 +38,7 @@
 * [Official AMAs](faq/official-amas-1/README.md)
   * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
   * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
+  * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
 
 ## OMG Network
 
