@@ -1,4 +1,4 @@
-# Current state
+# Plasma Current state
 
 [**Plasma Update \#1 - August 9, 2018**](https://kb.omgcommunity.org/deep-dive/plasma/current-state/plasma-update-1)  
 [**Plasma Update \#2 - August 27, 2018**](https://kb.omgcommunity.org/deep-dive/plasma/current-state/plasma-update-2)  

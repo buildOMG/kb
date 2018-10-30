@@ -33,7 +33,3 @@ As a part of an ongoing effort to be more connected with the community, we’ll 
 
 Keeping the community \(you\) informed and encouraged is part of our mission ❤️
 
-Best,
-
-The eWallet Team
-

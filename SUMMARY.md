@@ -78,7 +78,7 @@
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
 * [Plasma](deep-dive/plasma/README.md)
   * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
-  * [Current state](deep-dive/plasma/current-state/README.md)
+  * [Plasma Current state](deep-dive/plasma/current-state/README.md)
     * [Plasma Update \#1](deep-dive/plasma/current-state/plasma-update-1.md)
     * [Plasma Update \#2](deep-dive/plasma/current-state/plasma-update-2.md)
     * [Plasma Update \#3](deep-dive/plasma/current-state/plasma-update-3.md)
