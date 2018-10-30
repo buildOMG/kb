@@ -1,5 +1,19 @@
 # OMG Network Knowledge Base
 
+The [OMG Network Knowledge Base](https://kb.omgcommunity.org/) (OMG KB) was conceived as a joint effort between the OMG community and project team to organize a collection of high-quality information regarding the OMG Network to support better communication and community discourse. The OMG KB is maintained by [community contributors](https://github.com/buildOMG/kb/issues).  
+
+## **Development** 
++ [Contributing]
++ [Code of Conduct]
+
+## **Use** 
+
+The OMG KB is an open source, comprehensive collection of information and resources related to the OMG Network released under the [MIT License](LICENSE).
+
+## **Roadmap**
+
+## **Resources**
+
 ## **Contents** 
 
 {% hint style="warning" %}
@@ -56,5 +70,5 @@ _Please note: the OMG Network is still in development, and some details cannot y
 
 ### **Community & Communication**
 
-
-
+[Contributing]: CONTRIBUTING.md
+[Code of Conduct]: CODE_OF_CONDUCT.md
