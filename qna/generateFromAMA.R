@@ -100,3 +100,6 @@ for(i in 1:length(qna_q$answer)){
 
 # Output to TSV
 write_tsv(qna_q, 'qna_AMA.tsv')
+
+# qna_q[6,1]
+# unlist(strsplit(qna_q[6,1], "(?<=[[:punct:]])\\s(?=[A-Z])", perl=T))
