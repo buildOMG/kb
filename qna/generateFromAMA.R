@@ -62,7 +62,7 @@ qna_q <- cbind(
   ,links
 ) %>% as.data.frame()
 colnames(qna_q) <- c('question','answer')
-qna_q %>% View
+# qna_q %>% View
 
 # qna_q$answer <- str_replace_all(qna_q$answer,fixed('>'), '')
 # qna_q$answer <- str_replace_all(qna_q$answer,fixed('\\s+'), '')
@@ -76,7 +76,7 @@ qna_q %>% View
 
 
 # Remove any dodgy, like the header row
-qna_q <- qna_q[str_length(qna_q$question) > 3,]
+qna_q <- qna_q[!is.na(qna_q$question),]
 qna_q$source <- 'GitBookAMA'
 qna_q$meta <- ''
 
@@ -85,18 +85,26 @@ qna_q$answer <- as.character(qna_q$answer)
 
 flog.info("Test generated links")
 # test all of the auto-generated links here?
+track <- vector()
 for(i in 1:length(qna_q$answer)){
   #for(i in 1:5){
   # url <- ex_url(qna_q$answer[i], pattern = "@rm_url3")[[1]]
   url <- tail(str_extract_all(qna_q$answer[i], "\\([^()]+\\)")[[1]], 1)
   url <- str_sub(url, 2, str_length(url)-1)
   flog.info("Testing URL %s", url)
-  # TODO: Remove link if it errored
-  tryCatch(
-    !http_error(url, config(followlocation = 0L), USE.NAMES = FALSE),
-    error = function(e) flog.error("URL FAILED: %s", url)
-  )
+  if (!http_error(url, config(followlocation = 0L), USE.NAMES = FALSE)){
+    track[i] <- 'PASS'
+  } else {
+    flog.error("URL FAILED: %s", url)
+    track[i] <- 'FAIL'
+  }
 }
+# Report link tests
+# TODO: Some automation aroud the tests
+table(track)
+
+# Combine Q&A to make a proper markdown link
+qna_q$answer <- paste0("See: ", qna_q$question, qna_q$answer)
 
 # Output to TSV
 write_tsv(qna_q, 'qna_AMA.tsv')
