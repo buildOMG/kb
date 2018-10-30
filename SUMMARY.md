@@ -64,7 +64,7 @@
 * [eWallet Suite](deep-dive/ewallet-suite/README.md)
   * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
-  * [Current state](deep-dive/ewallet-suite/current-state/README.md)
+  * [eWallet Suite Current state](deep-dive/ewallet-suite/current-state/README.md)
     * [eWallet Update \#1](deep-dive/ewallet-suite/current-state/ewallet-update-1.md)
     * [eWallet Update \#2](deep-dive/ewallet-suite/current-state/ewallet-update-2.md)
     * [eWallet Update \#3](deep-dive/ewallet-suite/current-state/ewallet-update-3.md)
