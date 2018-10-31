@@ -38,7 +38,7 @@
 
 ## OMG Network
 
-* [OMG Network](deep-dive/omg-network.md)
+* [OMG Network](deep-dive/omg-network/)
 * [What is the OMG network ?](deep-dive/what-is-the-omg-network/)
 * [OMG token](deep-dive/omg-token.md)
 * [Roadmap](deep-dive/roadmap.md)

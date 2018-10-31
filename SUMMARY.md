@@ -34,7 +34,9 @@
 
 ## Deep dive
 
-* [OMG Network](deep-dive/omg-network.md)
+* [OmiseGO and the OMG Network](deep-dive/omg-network/README.md)
+  * [Vision](deep-dive/omg-network/vision.md)
+  * [Mission](deep-dive/omg-network/mission.md)
 * [Benefits of the OMG Network](deep-dive/benefits-of-the-omg-network/README.md)
   * [Access](deep-dive/benefits-of-the-omg-network/access.md)
   * [Security](deep-dive/benefits-of-the-omg-network/security.md)
