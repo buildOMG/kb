@@ -32,30 +32,6 @@
   * [Mainstream Adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)
 * [Community & Communication](omisego-official-guide/community-and-communication.md)
 
-## FAQ
-
-* [Community Q&A](faq/faq.md)
-* [Official AMAs](faq/official-amas-1/README.md)
-  * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
-  * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
-  * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
-
-## OMG Network
-
-* [OMG Network](omg-network/omg-network.md)
-* [What is the OMG network ?](omg-network/what-is-the-omg-network/README.md)
-  * [Introductions by Persona/Profiles](omg-network/what-is-the-omg-network/introductions-by-persona-profiles.md)
-* [OMG token](omg-network/omg-token.md)
-* [Roadmap](omg-network/roadmap.md)
-* [Tengen: the end game](omg-network/tengen-the-end-game.md)
-
-## Initial Release
-
-* [What is included?](initial-release/what-is-included.md)
-* [Current state](initial-release/current-state.md)
-* [PoA](initial-release/poa.md)
-* [Token burning](initial-release/token-burning.md)
-
 ## Deep dive
 
 * [Decentralized Exchange Layer](deep-dive/dex-exchanges/README.md)
@@ -103,6 +79,30 @@
   * [Current state](deep-dive/interoperability/current-state-2.md)
 * [Business development](deep-dive/business-development/README.md)
   * [Current State](deep-dive/business-development/omise.md)
+
+## FAQ
+
+* [Community Q&A](faq/faq.md)
+* [Official AMAs](faq/official-amas-1/README.md)
+  * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
+  * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
+  * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
+
+## OMG Network
+
+* [OMG Network](omg-network/omg-network.md)
+* [What is the OMG network ?](omg-network/what-is-the-omg-network/README.md)
+  * [Introductions by Persona/Profiles](omg-network/what-is-the-omg-network/introductions-by-persona-profiles.md)
+* [OMG token](omg-network/omg-token.md)
+* [Roadmap](omg-network/roadmap.md)
+* [Tengen: the end game](omg-network/tengen-the-end-game.md)
+
+## Initial Release
+
+* [What is included?](initial-release/what-is-included.md)
+* [Current state](initial-release/current-state.md)
+* [PoA](initial-release/poa.md)
+* [Token burning](initial-release/token-burning.md)
 
 ## Videos
 
