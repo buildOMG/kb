@@ -94,15 +94,8 @@
 * [What is the OMG network ?](omg-network/what-is-the-omg-network/README.md)
   * [Introductions by Persona/Profiles](omg-network/what-is-the-omg-network/introductions-by-persona-profiles.md)
 * [OMG token](omg-network/omg-token.md)
-* [Roadmap](omg-network/roadmap.md)
+* [OMG Ecosystem Roadmap](omg-network/roadmap.md)
 * [Tengen: the end game](omg-network/tengen-the-end-game.md)
-
-## Initial Release
-
-* [What is included?](initial-release/what-is-included.md)
-* [Current state](initial-release/current-state.md)
-* [PoA](initial-release/poa.md)
-* [Token burning](initial-release/token-burning.md)
 
 ## Videos
 

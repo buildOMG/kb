@@ -46,10 +46,10 @@
 
 ## Initial Release
 
-* [What is included?](initial-release/what-is-included.md)
-* [Current state](initial-release/current-state.md)
-* [PoA](initial-release/poa.md)
-* [Token burning](initial-release/token-burning.md)
+* [What is included?]()
+* [Current state]()
+* [PoA]()
+* [Token burning]()
 
 ## Deep dive
 
