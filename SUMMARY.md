@@ -34,6 +34,18 @@
 
 ## Deep dive
 
+* [OMG Network](deep-dive/omg-network.md)
+* [Benefits of the OMG Network](deep-dive/benefits-of-the-omg-network/README.md)
+  * [Access](deep-dive/benefits-of-the-omg-network/access.md)
+  * [Security](deep-dive/benefits-of-the-omg-network/security.md)
+  * [Scalability](deep-dive/benefits-of-the-omg-network/scalability.md)
+  * [Interoperability](deep-dive/benefits-of-the-omg-network/interoperability.md)
+  * [Decentralized](deep-dive/benefits-of-the-omg-network/decentralized.md)
+* [What is the OMG network ?](deep-dive/what-is-the-omg-network/README.md)
+  * [Introductions by Persona/Profiles](deep-dive/what-is-the-omg-network/introductions-by-persona-profiles.md)
+* [OMG token](deep-dive/omg-token.md)
+* [OMG Ecosystem Roadmap](deep-dive/roadmap.md)
+* [Tengen: the end game](deep-dive/tengen-the-end-game.md)
 * [Decentralized Exchange Layer](deep-dive/dex-exchanges/README.md)
   * [OMG DEX Design](deep-dive/dex-exchanges/omg-dex-design.md)
   * [Current state](deep-dive/dex-exchanges/current-state.md)
@@ -84,15 +96,6 @@
   * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
   * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
   * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
-
-## OMG Network
-
-* [OMG Network](omg-network/omg-network.md)
-* [What is the OMG network ?](omg-network/what-is-the-omg-network/README.md)
-  * [Introductions by Persona/Profiles](omg-network/what-is-the-omg-network/introductions-by-persona-profiles.md)
-* [OMG token](omg-network/omg-token.md)
-* [OMG Ecosystem Roadmap](omg-network/roadmap.md)
-* [Tengen: the end game](omg-network/tengen-the-end-game.md)
 
 ## Videos
 

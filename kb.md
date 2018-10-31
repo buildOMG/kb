@@ -38,11 +38,11 @@
 
 ## OMG Network
 
-* [OMG Network](omg-network/omg-network.md)
-* [What is the OMG network ?](omg-network/what-is-the-omg-network/)
-* [OMG token](omg-network/omg-token.md)
-* [Roadmap](omg-network/roadmap.md)
-* [Tengen: the end game](omg-network/tengen-the-end-game.md)
+* [OMG Network](deep-dive/omg-network.md)
+* [What is the OMG network ?](deep-dive/what-is-the-omg-network/)
+* [OMG token](deep-dive/omg-token.md)
+* [Roadmap](deep-dive/roadmap.md)
+* [Tengen: the end game](deep-dive/tengen-the-end-game.md)
 
 ## Initial Release
 
