@@ -32,39 +32,28 @@
   * [Mainstream Adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)
 * [Community & Communication](omisego-official-guide/community-and-communication.md)
 
-## FAQ
-
-* [Community Q&A](faq/faq.md)
-* [Official AMAs](faq/official-amas-1/README.md)
-  * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
-  * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
-  * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
-
-## OMG Network
-
-* [OMG Network](omg-network/omg-network.md)
-* [What is the OMG network ?](omg-network/what-is-the-omg-network/README.md)
-  * [Introductions by Persona/Profiles](omg-network/what-is-the-omg-network/introductions-by-persona-profiles.md)
-* [OMG token](omg-network/omg-token.md)
-* [Roadmap](omg-network/roadmap.md)
-* [Tengen: the end game](omg-network/tengen-the-end-game.md)
-
-## Initial Release
-
-* [What is included?](initial-release/what-is-included.md)
-* [Current state](initial-release/current-state.md)
-* [PoA](initial-release/poa.md)
-* [Token burning](initial-release/token-burning.md)
-
 ## Deep dive
 
-* [DEX/Exchanges](deep-dive/dex-exchanges/README.md)
-  * [What is a DEX?](deep-dive/dex-exchanges/what-is-a-dex.md)
+* [OmiseGO and the OMG Network](deep-dive/omg-network/README.md)
+  * [Vision](deep-dive/omg-network/vision.md)
+  * [Mission](deep-dive/omg-network/mission.md)
+* [Benefits of the OMG Network](deep-dive/benefits-of-the-omg-network/README.md)
+  * [Access](deep-dive/benefits-of-the-omg-network/access.md)
+  * [Security](deep-dive/benefits-of-the-omg-network/security.md)
+  * [Scalability](deep-dive/benefits-of-the-omg-network/scalability.md)
+  * [Interoperability](deep-dive/benefits-of-the-omg-network/interoperability.md)
+  * [Decentralized](deep-dive/benefits-of-the-omg-network/decentralized.md)
+* [What is the OMG network ?](deep-dive/what-is-the-omg-network/README.md)
+  * [Introductions by Persona/Profiles](deep-dive/what-is-the-omg-network/introductions-by-persona-profiles.md)
+* [OMG token](deep-dive/omg-token.md)
+* [OMG Ecosystem Roadmap](deep-dive/roadmap.md)
+* [Tengen: the end game](deep-dive/tengen-the-end-game.md)
+* [Decentralized Exchange Layer](deep-dive/dex-exchanges/README.md)
   * [OMG DEX Design](deep-dive/dex-exchanges/omg-dex-design.md)
   * [Current state](deep-dive/dex-exchanges/current-state.md)
+  * [DEX Resources](deep-dive/dex-exchanges/dex-resources.md)
 * [eWallet Suite](deep-dive/ewallet-suite/README.md)
-  * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
-  * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
+  * [What are integration libraries?](deep-dive/ewallet-suite/what-is-an-sdk.md)
   * [eWallet Suite Current state](deep-dive/ewallet-suite/current-state/README.md)
     * [eWallet Update \#1](deep-dive/ewallet-suite/current-state/ewallet-update-1.md)
     * [eWallet Update \#2](deep-dive/ewallet-suite/current-state/ewallet-update-2.md)
@@ -77,8 +66,13 @@
     * [eWallet Update \#9](deep-dive/ewallet-suite/current-state/ewallet-update-9.md)
     * [eWallet Update \#10](deep-dive/ewallet-suite/current-state/ewallet-update-10.md)
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
+  * [Resources](deep-dive/ewallet-suite/resources.md)
 * [Plasma](deep-dive/plasma/README.md)
-  * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
+  * [Plasma MVP](deep-dive/plasma/plasma-mvp-1.md)
+  * [MoreVP \(More Viable Plasma\)](deep-dive/plasma/morevp-more-viable-plasma.md)
+  * [Plasma Cash](deep-dive/plasma/plasma-cash.md)
+  * [Plasma XT](deep-dive/plasma/plasma-xt.md)
+  * [Plasma Debit](deep-dive/plasma/plasma-debit.md)
   * [Plasma Current state](deep-dive/plasma/current-state/README.md)
     * [Plasma Update \#1](deep-dive/plasma/current-state/plasma-update-1.md)
     * [Plasma Update \#2](deep-dive/plasma/current-state/plasma-update-2.md)
@@ -86,19 +80,24 @@
     * [Plasma Update \#4](deep-dive/plasma/current-state/plasma-update-4.md)
     * [Plasma Update \#5](deep-dive/plasma/current-state/plasma-update-5.md)
     * [Plasma Update \#6](deep-dive/plasma/current-state/plasma-update-6.md)
-  * [Plasma MVP](deep-dive/plasma/plasma-mvp.md)
+  * [Plasma Resources](deep-dive/plasma/plasma-resources.md)
 * [Cash in/out](deep-dive/cash-in-out-1/README.md)
   * [What is Cash in/out ?](deep-dive/cash-in-out-1/what-is-cash-in-out.md)
   * [Current state](deep-dive/cash-in-out-1/current-state.md)
-* [Staking](deep-dive/staking/README.md)
+* [Proof of Stake Consensus Mechanism](deep-dive/staking/README.md)
   * [What does staking means ?](deep-dive/staking/what-does-staking-means.md)
   * [Current state](deep-dive/staking/current-state-1.md)
-* [Interoperability](deep-dive/interoperability/README.md)
-  * [What does interoperability mean?](deep-dive/interoperability/what-does-interoperability-means.md)
-  * [Current state](deep-dive/interoperability/current-state-2.md)
+  * [Resources](deep-dive/staking/resources.md)
 * [Business development](deep-dive/business-development/README.md)
-  * [Omise](deep-dive/business-development/omise.md)
-  * [Partnerships](deep-dive/business-development/partnerships.md)
+  * [Current State](deep-dive/business-development/omise.md)
+
+## FAQ
+
+* [Community Q&A](faq/faq.md)
+* [Official AMAs](faq/official-amas-1/README.md)
+  * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
+  * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
+  * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
 
 ## Videos
 

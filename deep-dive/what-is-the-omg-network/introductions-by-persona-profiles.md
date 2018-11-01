@@ -1,10 +1,3 @@
----
-description: >-
-  Work in progress presenting OMG's different angles, each section targeting a
-  specific persona or profile: investors, technologists, and blockchain
-  enthusiasts.
----
-
 # Introductions by Persona/Profiles
 
 ## Investor:

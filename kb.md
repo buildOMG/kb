@@ -38,46 +38,46 @@
 
 ## OMG Network
 
-* [OMG Network](omg-network/omg-network.md)
-* [What is the OMG network ?](omg-network/what-is-the-omg-network/)
-* [OMG token](omg-network/omg-token.md)
-* [Roadmap](omg-network/roadmap.md)
-* [Tengen: the end game](omg-network/tengen-the-end-game.md)
+* [OMG Network](deep-dive/omg-network/)
+* [What is the OMG network ?](deep-dive/what-is-the-omg-network/)
+* [OMG token](deep-dive/omg-token.md)
+* [Roadmap](deep-dive/roadmap.md)
+* [Tengen: the end game](deep-dive/tengen-the-end-game.md)
 
 ## Initial Release
 
-* [What is included?](initial-release/what-is-included.md)
-* [Current state](initial-release/current-state.md)
-* [PoA](initial-release/poa.md)
-* [Token burning](initial-release/token-burning.md)
+* [What is included?]()
+* [Current state]()
+* [PoA]()
+* [Token burning]()
 
 ## Deep dive
 
 * [DEX/Exchanges](deep-dive/dex-exchanges/)
-  * [What is a DEX?](deep-dive/dex-exchanges/what-is-a-dex.md)
+  * [What is a DEX?]()
   * [Current state](deep-dive/dex-exchanges/current-state.md)
   * [Acquiring exchanges]()
 * [eWallet Suite](deep-dive/ewallet-suite/)
-  * [What is an eWallet?](deep-dive/ewallet-suite/what-is-an-ewallet.md)
+  * [What is an eWallet?]()
   * [What is an SDK?](deep-dive/ewallet-suite/what-is-an-sdk.md)
   * [Current state](deep-dive/ewallet-suite/current-state/)
   * [Implementation](deep-dive/ewallet-suite/implementation.md)
 * [Plasma](deep-dive/plasma/)
-  * [What is Plasma ?](deep-dive/plasma/what-is-plasma.md)
+  * [What is Plasma ?]()
   * [Current state](deep-dive/plasma/current-state/)
-  * [Plasma MVP](deep-dive/plasma/plasma-mvp.md)
+  * [Plasma MVP]()
 * [Cash in/out](deep-dive/cash-in-out-1/)
   * [What is Cash in/out ?](deep-dive/cash-in-out-1/what-is-cash-in-out.md)
   * [Current state](deep-dive/cash-in-out-1/current-state.md)
 * [Staking](deep-dive/staking/)
   * [What does staking means ?](deep-dive/staking/what-does-staking-means.md)
-  * [Current state](deep-dive/staking/current-state-1.md)
-* [Interoperability](deep-dive/interoperability/)
-  * [What does interoperability means ?](deep-dive/interoperability/what-does-interoperability-means.md)
-  * [Current state](deep-dive/interoperability/current-state-2.md)
+  * [Current state]()
+* [Interoperability]()
+  * [What does interoperability means ?]()
+  * [Current state]()
 * [Business development](deep-dive/business-development/)
   * [Omise](deep-dive/business-development/omise.md)
-  * [Partnerships](deep-dive/business-development/partnerships.md)
+  * [Partnerships]()
 
 ## Videos
 
