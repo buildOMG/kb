@@ -175,7 +175,7 @@
 
 > Transactors using the OMG Network will have two options: \(i\) to either submit a transaction directly to the OMG Network where block proposers will choose whether or not include it in the chain or \(ii\) to pay a block proposer to include their transaction by N block, and if the transaction is not included the block proposer is punished.
 
-### [How will OMG be burned during PoA?](https://kb.omgcommunity.org/kb#will-the-tokens-burned-during-the-poa-stage-be-an-accurate-indicator-of-the-amount-of-fees-we-can-expect-during-pos-would-you-consider-publicizing-this-information-during-the-poa-stage-fees-received-number-of-transactions-processed-usdusd-volume-processed-tokens-purchased-and-burned-at-regular-intervals-to-help-the-community-calculate-and-project-growth-over-time)
+### [How will OMG be burned during PoA phase?](https://kb.omgcommunity.org/kb#will-the-tokens-burned-during-the-poa-stage-be-an-accurate-indicator-of-the-amount-of-fees-we-can-expect-during-pos-would-you-consider-publicizing-this-information-during-the-poa-stage-fees-received-number-of-transactions-processed-usdusd-volume-processed-tokens-purchased-and-burned-at-regular-intervals-to-help-the-community-calculate-and-project-growth-over-time)
 
 > All fees collected during the POA stage will be converted to OMG and then burned publicly, with everyone having access to the metrics surrounding them.
 
@@ -195,7 +195,7 @@
 >   
 > The original vision of bringing cryptocurrency to the masses was too simplistic. OmiseGO isn’t about convincing people to adopt new or better \(crypto\) currencies. Instead, it is about creating infrastructure which facilitates free transfer of value, no matter what form that value may take. Value is not in the money, it’s in the freedom to use it.
 
-### [Will initial transactions only come from exchanges?](https://kb.omgcommunity.org/kb#will-sources-of-transactions-for-staking-in-2018-only-come-from-the-to-be-acquired-exchanges-or-are-there-going-to-be-other-sources-of-volume-and-liquidity-in-2018-such-as-omises-clients-transactions-outside-companies-who-utilize-the-network-etc-if-specifics-cannot-be-provided-than-a-simple-yes-no-would-be-appreciated)
+### [Will initial OMG Network transactions only come from exchanges?](https://kb.omgcommunity.org/kb#will-sources-of-transactions-for-staking-in-2018-only-come-from-the-to-be-acquired-exchanges-or-are-there-going-to-be-other-sources-of-volume-and-liquidity-in-2018-such-as-omises-clients-transactions-outside-companies-who-utilize-the-network-etc-if-specifics-cannot-be-provided-than-a-simple-yes-no-would-be-appreciated)
 
 > No, transactions will come from many places including but not limited to providers who build with the OMG Wallet SDK and the Omise’s own centralized exchange holdings.
 
@@ -209,11 +209,11 @@
 >   
 > As mentioned in our [Strategy vol. 02](https://blog.omisego.network/strategy-vol-02-89a4d8476eed) blog post, one of the early drivers of volume on the OMG Network will be the transactions conducted through the exchanges that Omise is acquiring/building. We are also actively engaging SDK and Plasma collaborators, as well as enterprise partners.
 
-### [What is working relationship with Krunsgri and MUFG?](https://kb.omgcommunity.org/kb#how-is-the-relationship-progressing-between-you-and-krungrsi-since-you-received-funding-from-them-are-there-any-updates-to-the-strategic-direction-that-the-money-raised-will-be-used-for-can-you-also-comment-on-the-general-working-relationship-with-mufg-at-this-point-in-time)
+### [What is OmiseGO working relationship with Krunsgri and MUFG?](https://kb.omgcommunity.org/kb#how-is-the-relationship-progressing-between-you-and-krungrsi-since-you-received-funding-from-them-are-there-any-updates-to-the-strategic-direction-that-the-money-raised-will-be-used-for-can-you-also-comment-on-the-general-working-relationship-with-mufg-at-this-point-in-time)
 
 > At this time we cannot provide any further details.
 
-### [What will team do with unlocked tokens?](https://kb.omgcommunity.org/kb#i-think-the-lock-in-period-for-the-teams-tokens-is-nearing-its-end-period-of-one-year-what-do-you-plan-to-do-after-that)
+### [What will OmiseGO team do with unlocked tokens?](https://kb.omgcommunity.org/kb#i-think-the-lock-in-period-for-the-teams-tokens-is-nearing-its-end-period-of-one-year-what-do-you-plan-to-do-after-that)
 
 > Token holders can choose what they plan to do with tokens. One option is to use the token for what it’s made to do: staking the OMG network. OmiseGO’s own tokens will be used for staking.
 
@@ -247,9 +247,7 @@
 >   
 > OmiseGO is collaborating on Plasma research to build the optimal scaling architecture. In terms of partners, we are continuing to engage with potential future partners and will update the community as we are able to do so.
 
-### [The background: I read recently that you were focusing first on crypto to crypto transactions, whether that was with the DEX or not. I understand how crypto is fundamental for this project, via the technology, and the first users - us. But the project’s goal always seemed to focus on real world wider application, not just the crypto world. It was always this wider world application that excited me about OmiseGo.](https://kb.omgcommunity.org/kb#the-question-so-how-do-you-plan-on-going-from-a-specific-focus-of-the-crypto-world-to-a-great-and-useful-product-for-the-wider-not-crypto-fiat-world-that-you-always-mention-in-your-slogan-unbanked-the-banked)
-
-### [How will OMG enable real world transactions?](https://kb.omgcommunity.org/kb#the-question-so-how-do-you-plan-on-going-from-a-specific-focus-of-the-crypto-world-to-a-great-and-useful-product-for-the-wider-not-crypto-fiat-world-that-you-always-mention-in-your-slogan-unbanked-the-banked)
+### [How will OmiseGO unbank the banked?](https://kb.omgcommunity.org/kb#the-question-so-how-do-you-plan-on-going-from-a-specific-focus-of-the-crypto-world-to-a-great-and-useful-product-for-the-wider-not-crypto-fiat-world-that-you-always-mention-in-your-slogan-unbanked-the-banked)
 
 > The key to enabling widespread adoption of the OMG Network and cryptocurrencies is providing cash-in/cash-out services so individuals can top-up digital wallets via cash agents, such as merchants, as well as withdraw funds in whatever currency is most useful to them. Cash-in/cash-out will enable users who do not have access to bank accounts and those who choose not to use their accounts to top-up or withdraw via cash agents.
 
@@ -261,7 +259,7 @@
 
 > This is the OmiseGO AMA.
 
-### [How will people deposit money into the OMG network?](https://kb.omgcommunity.org/kb#how-easy-will-it-be-for-non-tech-normal-people-be-able-to-deposit-money-into-the-omg-network)
+### [How will people deposit money into the OMG Network?](https://kb.omgcommunity.org/kb#how-easy-will-it-be-for-non-tech-normal-people-be-able-to-deposit-money-into-the-omg-network)
 
 > We’re working with partners to create OMG Network access points with the goal being to make it as easy as buying socks from Amazon or a coffee from 7-11.
 
@@ -273,7 +271,7 @@
 >   
 > In terms of cash-in/cash-out, we are actively researching the payment behaviours across regions, such as Indonesia, to supplement our understanding of the requirements to enable user on-ramping to the OMG Network. We plan to provide the ability for merchants and individuals to provide cash-in/cash-out fiat portals for users. The exchanges that Omise is acquiring/building will also act as cash-in/cash-out portal.
 
-### [What are OMG partnerships?](https://kb.omgcommunity.org/kb#are-there-any-news-on-recent-vendors-or-partnerships-or-businesses)
+### [What are OmiseGO partnerships?](https://kb.omgcommunity.org/kb#are-there-any-news-on-recent-vendors-or-partnerships-or-businesses)
 
 > Our business development team is engaged with numerous interested parties, at varying stages \(and is actively trying to grow to provide more capacity\). Part of our model for supporting potential implementers is that it is up to those businesses to reveal their intentions when and if they choose. In most cases, we will engage in meaningful exploration with potential implementers and partners to understand how OmiseGO may be able to offer a solution that is decentralised, scalable and interoperable, and then let them tell their own story.
 
@@ -281,7 +279,7 @@
 
 > We’re building OMG Network, and are not responsible for the actions of staking pools run by other parties. That said, OmiseGO will be open about which staking pools we trust with our own tokens.
 
-### [Will OMG Network and Cosmos ZOMG be interoperable?](https://kb.omgcommunity.org/kb#will-both-cosmos-and-plasma-work-under-the-same-omg-wallet-and-payment-network-so-i-can-pay-with-a-cosmos-based-token-and-the-counter-party-receives-a-plasma-based-token-or-vice-versa)
+### [Will OMG Network and Cosmos ZOMG DEX be interoperable?](https://kb.omgcommunity.org/kb#will-both-cosmos-and-plasma-work-under-the-same-omg-wallet-and-payment-network-so-i-can-pay-with-a-cosmos-based-token-and-the-counter-party-receives-a-plasma-based-token-or-vice-versa)
 
 > No, the Cosmos OMG DEX and the Plasma OMG DEX will be two separate exchanges. But with time, interoperability will probably come.
 
@@ -293,13 +291,13 @@
 
 > The volume that comes from all the kinds of transactions that the users of a world-unifying financial network, that can perform all payments and asset exchange, would want to use the network for. This isn’t just about volume coming through the OMG or Ethereum or Cosmos communities, or even the whole crypto community. This isn’t about Omise\(GO\)’s business relationships and existing business either. This is about the global transaction volume that results from the full-reserve decentralized liquidity pool that accumulates around a massively-scalable, publicly-run decentralized exchange. For a wordier explanation, [read the OMG whitepaper](https://cdn.omise.co/omg/whitepaper.pdf).
 
-### \*\*\*\*[**How will OMG implement fiat gateways into DEX?**](https://kb.omgcommunity.org/kb#how-does-omisego-plan-on-implementing-fiat-gateways-into-its-dex-are-there-any-regulatory-hurdles-the-team-needs-to-plan-for)\*\*\*\*
+### \*\*\*\*[**How will OmiseGO implement fiat gateways into DEX?**](https://kb.omgcommunity.org/kb#how-does-omisego-plan-on-implementing-fiat-gateways-into-its-dex-are-there-any-regulatory-hurdles-the-team-needs-to-plan-for)\*\*\*\*
 
 > Supporting fiat on decentralized exchanges can generally only be done in one way: some centralized entity creates a fiat-backed on-chain token \(ie. like Tether\), and manages conversions between banking system fiat \(or other mechanisms, like cash going into ATMs, cards bought at convenience stores, etc\) and the on-chain token; the decentralized exchange then manages the conversion between the various on-chain tokens, and does not really care about what those tokens represent.  
 >   
 > In practice, one of OmiseGO’s immediate targets is improving interoperability between existing wallet providers that have already crossed those regulatory hurdles, and so the intention will be that these wallet providers would become on-chain token issuers, using the Plasma chain for accounting.
 
-### \*\*\*\*[**Will credit card companies allow fiat deposits into OmiseGo DEX?**](https://kb.omgcommunity.org/kb#what-will-merchants-use-to-deposit-fiat-into-the-dex-cash-credit-card-etc-what-suggests-credit-card-companies-will-allow-fiat-deposits-into-the-omisego-dex)\*\*\*\*
+### \*\*\*\*[**Will credit card companies allow fiat deposits into OMG DEX?**](https://kb.omgcommunity.org/kb#what-will-merchants-use-to-deposit-fiat-into-the-dex-cash-credit-card-etc-what-suggests-credit-card-companies-will-allow-fiat-deposits-into-the-omisego-dex)\*\*\*\*
 
 > See above. Credit card companies will have to assess their own risk/reward profile, which is normally a big part of their business to do.
 
@@ -317,7 +315,7 @@
 >   
 > The two DEX’s will not be duplicates: the Cosmos OMG DEX is being designed and developed by Tendermint as a Cosmos zone, while the Plasma OMG DEX is being designed and developed by OmiseGO to run on Ethereum and scale using Plasma.
 
-### [Will OMG use 0x relayer?](https://kb.omgcommunity.org/kb#smart-0x-based-relayers-dexes-will-share-liquidity-through-either-open-order-books-or-other-means-aequeduct-are-there-any-plans-for-omise-to-tap-into-this-liquidity-somehow)
+### [Will OMG Network use 0x relayer?](https://kb.omgcommunity.org/kb#smart-0x-based-relayers-dexes-will-share-liquidity-through-either-open-order-books-or-other-means-aequeduct-are-there-any-plans-for-omise-to-tap-into-this-liquidity-somehow)
 
 > OmiseGO is working on bringing liquidity to the OMG Network by: \(i\) acquiring existing exchanges, \(ii\) building our own exchange, \(iii\) collaborating with centralized exchanges, and \(iiii\) offering non-custodial exchange support. Whether or not non-custodial exchanges built on the OMG Network choose to share liquidity will be up to them. It’s critical to remember that when we’re talking about liquidity within the context of the OMG Network we’re dealing with two different types of liquidity: liquidity between the OMG Network and Ethereum, and OMG DEX liquidity. Liquidity between Ethereum and the OMG Network will be offered by liquidity providers who are willing to exchange value on Ethereum for value on the OMG Network for a fee. OMG DEX liquidity will be used to facilitate transfers of value between users.
 
@@ -349,15 +347,15 @@
 
 > We’re working to get minimum amount needed to stake as low as possible. We’re battling against technological limitations as lowering the minimum stake means more validators which will cause more messages to have to be sent before finality can be reached hurting the overall speed of the OMG Network. For now, all we can say is that we’ll let you know as soon as we know.
 
-### [What is the relationship between OMG and Neutrino? ](https://kb.omgcommunity.org/kb#what-role-does-omisego-have-at-the-neutrino-workspace-and-are-there-any-plans-to-open-one-in-the-usa)
+### [What is relationship between OmiseGO and Neutrino?](https://kb.omgcommunity.org/kb#what-role-does-omisego-have-at-the-neutrino-workspace-and-are-there-any-plans-to-open-one-in-the-usa)
 
 > OmiseGO is collaborating with different projects in the blockchain space to build a network of co-working spaces called Neutrino. Neutrino’s objective is to create ecosystems in various locales to support the development of blockchain education and innovation. We are definitely interested in opening Neutrino locations in many cities that have sizable local interest. If you are interested in working with us on building a Neutrino in a location near you, please let us know! [neutrino@omisego.co](mailto:neutrion@omisego.co)
 
-### [What will OmiseGO do with its lock up tokens](https://kb.omgcommunity.org/kb#what-you-plan-to-do-with-your-omg-tokens-in-one-month-the-lockup-period-is-expired)
+### [What will OmiseGO do with its lock up tokens?](https://kb.omgcommunity.org/kb#what-you-plan-to-do-with-your-omg-tokens-in-one-month-the-lockup-period-is-expired)
 
 > Once the OMG Network is live, OmiseGO will stake OMG to uphold the network’s proof-of-stake consensus.
 
-### [Does OmiseGO have plans to disrupt rabbit card and BTS in Bangkok?](https://kb.omgcommunity.org/kb#hey-champs-i-really-dig-your-beautiful-team-i-love-that-youre-integrating-everyone-guys-and-gals-and-giving-opportunities-to-those-that-deserve-them-question-regarding-omise-technically-post-integration-do-you-have-plans-to-disrupt-the-rabbit-card-and-bts-in-bkk-at-least-1-3-million-trips-per-day-entering-and-then-exiting-1-3m-x-2-identity-data-would-be-great-here-too-remember-that-rabbit-card-is-used-like-a-debit-card-around-sukhumvit-as-well-i-would-love-to-see-this-thanks)
+### [Does OmiseGO have plans to disrupt Rabbit Card and BTS in Bangkok?](https://kb.omgcommunity.org/kb#hey-champs-i-really-dig-your-beautiful-team-i-love-that-youre-integrating-everyone-guys-and-gals-and-giving-opportunities-to-those-that-deserve-them-question-regarding-omise-technically-post-integration-do-you-have-plans-to-disrupt-the-rabbit-card-and-bts-in-bkk-at-least-1-3-million-trips-per-day-entering-and-then-exiting-1-3m-x-2-identity-data-would-be-great-here-too-remember-that-rabbit-card-is-used-like-a-debit-card-around-sukhumvit-as-well-i-would-love-to-see-this-thanks)
 
 > Thanks, we love our beautiful team too. In response to your question, we are researching how OmiseGO can support various use cases… such as transportation! We will continue to engage with potential future partners to process transactions on the OMG Network.
 
@@ -365,7 +363,7 @@
 
 > Omise Holdings is building and acquiring exchanges that can provide benefits to the OmiseGO project. Once the OMG network is scaled, we will migrate the volume from these exchanges to OMG Plasma chains and decentralized exchange. We will also leverage some of the components of these exchanges to build out the decentralized exchange.
 
-### [How will OmiseGO maintain competitive advantage over plasma?](https://kb.omgcommunity.org/kb#once-plasma-comes-online-on-the-ethereum-main-net-and-omg-is-one-of-many-plasma-chains-how-will-omg-retain-its-competitive-advantages-without-financial-institutions-simply-choosing-another-plasma-chain)
+### [How will OmiseGO maintain competitive advantage over Plasma?](https://kb.omgcommunity.org/kb#once-plasma-comes-online-on-the-ethereum-main-net-and-omg-is-one-of-many-plasma-chains-how-will-omg-retain-its-competitive-advantages-without-financial-institutions-simply-choosing-another-plasma-chain)
 
 > Plasma chains are open-source so there is no limitation to how users and projects can contribute or fork our code. The value of using OMG’s Plasma chain is that we are creating a wide and decentralized ecosystem of stakers that are incentivized to uphold the consensus of this network. We encourage others to also implement Plasma!
 
@@ -377,11 +375,11 @@
 
 > We’re currently building on top of Plasma MVP. Plasma Cash is significantly more scalable than MVP, but it currently has some limitations \(merging/splitting is hard\). We’ll be working on Plasma MVP and Plasma Cash simultaneously because we see a lot of value in both. Luckily, Plasma designs are pretty loosely defined and a lot of the thinking/research is portable, so we’re moving towards a robust and scalable DEX design either way.
 
-### [Will BTC be compatible with Cosmos and Plasma?](https://kb.omgcommunity.org/kb#will-btc-be-compatible-with-cosmos-and-plasma)
+### [Will Bitcoin be compatible with Cosmos ZOMG DEX and OMG Network?](https://kb.omgcommunity.org/kb#will-btc-be-compatible-with-cosmos-and-plasma)
 
 > We won’t speak for Cosmos as to what they will be supporting. For the OMG network, BTC could be supported with atomic swaps through a clearinghouse.
 
-### [What is OmiseGo's 'killer app?'](https://kb.omgcommunity.org/kb#do-you-remember-how-no-cared-to-buy-into-the-internet-until-everyone-figured-out-how-to-get-free-porn-from-it-okay-fine-email-for-you-puritans-plasma-mvp-plasma-cash-cosmos-spoon-dex-ewallet-sdk-oh-my-my-head-is-spinning-the-internet-has-porn-and-email-without-all-the-techno-blockchain-mumbo-jumbo-what-is-omisegos-killer-app)
+### [What is OmiseGO killer app?](https://kb.omgcommunity.org/kb#do-you-remember-how-no-cared-to-buy-into-the-internet-until-everyone-figured-out-how-to-get-free-porn-from-it-okay-fine-email-for-you-puritans-plasma-mvp-plasma-cash-cosmos-spoon-dex-ewallet-sdk-oh-my-my-head-is-spinning-the-internet-has-porn-and-email-without-all-the-techno-blockchain-mumbo-jumbo-what-is-omisegos-killer-app)
 
 > The internet had porn…blockchain has Spankchain.  
 >   
@@ -389,15 +387,15 @@
 >   
 > Or perhaps it’s a highly-performant, secure and massively-scalable decentralized exchange that resistants rent extraction, can work across blockchains, and can unite fiat and crypto economies.
 
-### [When will OMG merchandise store open?)](https://kb.omgcommunity.org/kb#when-will-we-be-able-to-buy-official-omg-merch)
+### [When will OmiseGO merchandise store open?](https://kb.omgcommunity.org/kb#when-will-we-be-able-to-buy-official-omg-merch)
 
 > We will be launching our first OMG pop-up shop in the next few weeks and will announce on Twitter once it is live.
 
-### [How OMG will decide rate of each currency?](https://kb.omgcommunity.org/kb#the-omg-dex-will-be-currency-agnostic-and-will-make-transactions-between-two-parties-flawless-no-matter-the-currencies-used-by-the-maker-and-the-taker-right-but-how-omg-will-decide-the-quote-and-or-the-rate-of-each-currency-based-on-some-reputable-forex-exchange-or-on-omise-rates-and-quotes-will-omise-omg-dex-do-some-forex-arbitrage-on-forex)
+### [How will OMG Network decide exchange rate of each currency?](https://kb.omgcommunity.org/kb#the-omg-dex-will-be-currency-agnostic-and-will-make-transactions-between-two-parties-flawless-no-matter-the-currencies-used-by-the-maker-and-the-taker-right-but-how-omg-will-decide-the-quote-and-or-the-rate-of-each-currency-based-on-some-reputable-forex-exchange-or-on-omise-rates-and-quotes-will-omise-omg-dex-do-some-forex-arbitrage-on-forex)
 
 > Yes, the OMG DEX will eventually support non-custodial settlement with off-chain and on-chain order matching. We’re currently building the OMG Network - the base protocol and the eWallet SDK for interacting with it - though we’re definitely open to creating a DEX SDK down the road. We’re in the process of releasing our design doc for the first release, which will help developers know what to expect and allow them to start planning out integrations with the OMG Network. A free market and not OmiseGO \(or any other specific party or group of specific parties\) will be responsible for determining the exchange rates of each currency.
 
-### [What type of consensus is needed between plasma validators?)](https://kb.omgcommunity.org/kb#what-type-of-consensus-between-plasma-validators-needs-to-achieved-simple-of-staking-nodes)
+### [What type of consensus is needed between Plasma validators?](https://kb.omgcommunity.org/kb#what-type-of-consensus-between-plasma-validators-needs-to-achieved-simple-of-staking-nodes)
 
 > We haven’t completely decided how our PoS mechanism will work, so this question isn’t easy to answer \(currently\). We’ll answer this in detail once we’ve fully designed or determined the consensus mechanism!
 
@@ -417,7 +415,7 @@
 
 > Everyone who wants to use the OMG Network to exchange off-chain assets will be responsible for putting the real world value on-chain first. The OMG Network will provide a means to exchange fiat-backed cryptocurrency but OmiseGO will not issue a fiat backed token. How any given fiat backed currency works will depend on how the issuer chooses to design it.
 
-### [How do the fees work on a Plasma Cash chain?](https://kb.omgcommunity.org/kb#how-do-the-fees-work-on-a-plasma-cash-chain-if-it-is-difficult-to-split-coins-into-small-amounts-and-merge-them-again-how-do-you-plan-to-handle-the-tiny-transactions-fees-on-each-transaction)
+### [How do fees work on a Plasma Cash chain?](https://kb.omgcommunity.org/kb#how-do-the-fees-work-on-a-plasma-cash-chain-if-it-is-difficult-to-split-coins-into-small-amounts-and-merge-them-again-how-do-you-plan-to-handle-the-tiny-transactions-fees-on-each-transaction)
 
 > Merging and splitting is generally difficult, but there are a few proposals to take fees without a merging/splitting construction. Vitalik’s original proposal here was that each coin would specify a “total fee” that must increase from transaction to transaction, although this ruins nicely denominated coins. This is a problem we expect to be convincingly solved as we figure out the most efficient merging/splitting design.
 
@@ -427,7 +425,7 @@
 >   
 > Generally speaking, we expect many parties ranging from exchanges to wallets to take part in and benefit from staking.
 
-### [How will OmiseGo handle multiple wallets working together?](https://kb.omgcommunity.org/kb#how-will-omisego-handle-multiple-wallets-working-together-if-i-have-a-wallet-by-company-x-and-my-friend-has-a-wallet-by-company-y-what-addressing-system-should-i-use-to-send-him-the-money-email-or-some-sort-of-unique-id-like-a-phone-number)
+### [How will OmiseGO handle multiple wallets working together?](https://kb.omgcommunity.org/kb#how-will-omisego-handle-multiple-wallets-working-together-if-i-have-a-wallet-by-company-x-and-my-friend-has-a-wallet-by-company-y-what-addressing-system-should-i-use-to-send-him-the-money-email-or-some-sort-of-unique-id-like-a-phone-number)
 
 > To conduct a transaction via the Ethereum blockchain, users require an Ethereum address. Wallets are the vital access point for users to properly interface with the Ethereum network to transfer or secure value. As a result, wallets do not need to be compatible with different wallets and the OMG Network will act as the connecting mechanism between wallets to transfer value. OmiseGO remains currency-agnostic and wallet-agnostic to ensure that financial access can be provided to the most users regardless of their preferred currency or platform.
 
@@ -439,11 +437,11 @@
 
 > The user interfaces for the OMG DEX will be determined by the use case and how the application is integrated to the DEX. For example, an interface for the DEX may not be present if an exchange is performed behind the scenes. If the user is performing a foreign exchange transaction, they would be presented with an interface familiar to placing a FX order.
 
-### [Will Cosmos spoon be supported on Ledger Nano S?](https://kb.omgcommunity.org/kb#will-fork-support-be-given-to-users-that-hold-their-omg-tokens-on-a-ledger-nano-s-or-are-we-required-to-move-our-tokens-to-a-temporary-address-where-we-have-access-to-our-private-keys)
+### [Will Cosmos ZOMG hard spoon be supported on Ledger Nano S?](https://kb.omgcommunity.org/kb#will-fork-support-be-given-to-users-that-hold-their-omg-tokens-on-a-ledger-nano-s-or-are-we-required-to-move-our-tokens-to-a-temporary-address-where-we-have-access-to-our-private-keys)
 
 > If your OMG tokens are held in a Ledger wallet, you have control of your private key. No additional action is required for the moment.
 
-### [Has OMG offered services to MUFG?](https://kb.omgcommunity.org/kb#mufg-is-building-a-stable-coin-why-dont-u-offer-your-network-service-to-them-in-order-for-person-from-usa-or-europe-to-send-money-to-his-cousin-in-thailand-they-need-to-have-a-stable-coin-i-dont-wanna-send-20usd-of-crypto-to-my-cousin-which-if-he-doesnt-cash-out-immidiately-could-turn-into-10-or-5usd-next-day)
+### [Has OmiseGO offered services to MUFG?](https://kb.omgcommunity.org/kb#mufg-is-building-a-stable-coin-why-dont-u-offer-your-network-service-to-them-in-order-for-person-from-usa-or-europe-to-send-money-to-his-cousin-in-thailand-they-need-to-have-a-stable-coin-i-dont-wanna-send-20usd-of-crypto-to-my-cousin-which-if-he-doesnt-cash-out-immidiately-could-turn-into-10-or-5usd-next-day)
 
 > Our wallet SDK and Plasma research are open source, so we encourage collaboration from users, projects and enterprises. We look forward to having various ecosystem players adopt the OMG network to process transactions and provide the benefits to their end-users.  
 >   
@@ -453,7 +451,7 @@
 
 > Research into an EVM-like Plasma chain is future work. Early implementations won’t support smart contracts, and the first smart contracts will probably look more like Bitcoin Script than EVM contracts. Luckily, we don’t need complex contract behavior for the purposes of the exchange. Things get increasingly more difficult as you start to represent complicated state on Plasma, so most of the current Plasma designs will look more like app-specific Plasma chains and not general computation chains.
 
-### [Are all ERC20 supported on initial OMG Network?](https://kb.omgcommunity.org/kb#why-was-there-a-need-to-specifically-highlight-dai-to-be-tradable-on-day-1-arent-all-erc20-supported-on-day-1)
+### [Will initial OMG Network support all ERC20s?](https://kb.omgcommunity.org/kb#why-was-there-a-need-to-specifically-highlight-dai-to-be-tradable-on-day-1-arent-all-erc20-supported-on-day-1)
 
 > We will trade as many ERC20 tokens as is optimal at our first implementation of the decentralized exchange. We continue to collaborate with Maker and DAI project and look forward to listing them. Once multi-collateralization launches, we look forward to OMG being used as collateral for issuing DAI.
 
@@ -465,7 +463,7 @@
 >   
 > The exchanges run by Omise’s new subsidiary will add liquidity and transaction volume to OMG but will have no effect on the way OMG is constructed, who can use it or for what.
 
-### [What is your level of confidence in OmiseGo?](https://kb.omgcommunity.org/kb#whats-your-level-of-confidence-in-omisego-1-10)
+### [What is your level of confidence in OmiseGO?](https://kb.omgcommunity.org/kb#whats-your-level-of-confidence-in-omisego-1-10)
 
 > 10/10 confident that OmiseGO exists. To build the most meaningful blockchain protocol on Ethereum thus far, or to fail spectacularly \(leading to the creation of an array of things that are potentially better\).
 
@@ -473,15 +471,15 @@
 
 > Problems on Ethereum \(like 51% attacks\) can potentially create problems on Plasma chains. We’ve thought a lot about how to mitigate these issues, and there are ways to disincentivize “bad things” from happening when forks happen. However, we’re ultimately reliant on Ethereum for security, so if Ethereum isn’t functional, then the Plasma chain isn’t functional either. This is a very deliberate design decision, as the cost to attack Ethereum will usually be higher than the cost to attack something only secured by OMG stake.
 
-### [Will ELEC tokens have reliance on Cosmos ZOMG token?](https://kb.omgcommunity.org/kb#big-time-believer-in-omg-and-by-proxied-virtue-a-big-time-believer-in-elec-will-elec-tokens-need-to-have-a-reliance-less-than-equal-to-greater-than-omg-tokens-on-the-cosmos-hard-spoon-token-for-any-reason-thank-you-guys-for-all-you-do)
+### [Will ELEC tokens rely on OMG?](https://kb.omgcommunity.org/kb#big-time-believer-in-omg-and-by-proxied-virtue-a-big-time-believer-in-elec-will-elec-tokens-need-to-have-a-reliance-less-than-equal-to-greater-than-omg-tokens-on-the-cosmos-hard-spoon-token-for-any-reason-thank-you-guys-for-all-you-do)
 
 > Whilst we are collaborating with Electrify and remain friends, there isn’t a reliance on the OMG token for ELEC tokens \(except to the extent that the OMG token secures whatever portion of the ELEC marketcap is traded on the OMG Network\). When available, the ELEC token will be tradeable on the the OmiseGO DEX and the Cosmos/Tendermint DEX.
 
-### [Will OmiseGo wallet support non fungible ERC721 tokens?](https://kb.omgcommunity.org/kb#will-omisego-wallet-support-non-fungible-erc721-type-tokens)
+### [Will OmiseGO wallet support non fungible ERC721 tokens?](https://kb.omgcommunity.org/kb#will-omisego-wallet-support-non-fungible-erc721-type-tokens)
 
 > Support for ERC20 tokens will first be added to the eWallet SDK. Support for ERC721 will be considered for a future release.
 
-### [How quickly is OmiseGo growing?](https://kb.omgcommunity.org/kb#how-quickly-is-omisegos-employee-count-growing-in-2018-considering-its-1-1-bn-market-cap)
+### [How quickly is OmiseGO growing?](https://kb.omgcommunity.org/kb#how-quickly-is-omisegos-employee-count-growing-in-2018-considering-its-1-1-bn-market-cap)
 
 > We have grown from 4 to around 40 people, since June 2017.
 
@@ -509,7 +507,7 @@
 
 > Jun likes his cigars like he likes his blockchains: highly-performant, secure and massively-scalable.
 
-### [Will roadmap be on Trello?](https://kb.omgcommunity.org/kb#would-you-consider-putting-the-roadmap-on-a-tool-like-trello-so-that-people-can-vote-on-their-favorite-features-to-help-you-prioritize-development-efforts)
+### [Will OMG roadmap be on Trello?](https://kb.omgcommunity.org/kb#would-you-consider-putting-the-roadmap-on-a-tool-like-trello-so-that-people-can-vote-on-their-favorite-features-to-help-you-prioritize-development-efforts)
 
 > We actually kind of liked this idea, but based on its own logic it should be pretty low on our priority list due to the number of downvotes.
 
