@@ -4,55 +4,55 @@
 _Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
 {% endhint %}
 
-## **What is OmiseGO?**
+## \*\*\*\*[**What is OmiseGO?**](https://kb.buildomg.org/omisego-official-guide/what-is-omisego)\*\*\*\*
 
-## **Why do we need OMG?**
+## \*\*\*\*[**Why do we need OMG?**](https://kb.buildomg.org/omisego-official-guide/why-do-we-need-omg)\*\*\*\*
 
-## **Why did a for-profit company choose to invest in building a public network?**
+## \*\*\*\*[**Why did a for-profit company choose to invest in building a public network?**](https://kb.buildomg.org/omisego-official-guide/why-did-a-for-profit-company-choose-to-invest-in-building-a-public-network)\*\*\*\*
 
-## **How was OmiseGO launched?**
+## \*\*\*\*[**How was OmiseGO launched?**](https://kb.buildomg.org/omisego-official-guide/how-was-omisego-launched)\*\*\*\*
 
-#### **OMG token allocation & airdrop**
+#### \*\*\*\*[**OMG token allocation & airdrop**](https://kb.buildomg.org/omisego-official-guide/how-was-omisego-launched/omg-token-allocation-and-airdrop)\*\*\*\*
 
-## **OMG basics**
+## \*\*\*\*[**OMG basics**](https://kb.buildomg.org/omisego-official-guide/omg-basics)\*\*\*\*
 
-#### **eWallet Suite**
+#### \*\*\*\*[**eWallet Suite**](https://kb.buildomg.org/omisego-official-guide/omg-basics/ewallet-suite)\*\*\*\*
 
-#### **White-label Wallet Software Development Kit \(SDK\)**
+#### \*\*\*\*[**White-label Wallet Software Development Kit \(SDK\)**](https://kb.buildomg.org/omisego-official-guide/omg-basics/white-label-wallet-software-development-kit-sdk)\*\*\*\*
 
-#### **Decentralized Exchange \(DEX\)**
+#### \*\*\*\*[**Decentralized Exchange \(DEX\)**](https://kb.buildomg.org/omisego-official-guide/omg-basics/decentralized-exchange-dex)\*\*\*\*
 
-#### **Scalability Network Mechanism**
+#### \*\*\*\*[**Scalability Network Mechanism**](https://kb.buildomg.org/omisego-official-guide/omg-basics/scalability-network-mechanism)\*\*\*\*
 
-#### **Decentralized Cash In/Out Layer**
+#### \*\*\*\*[**Decentralized Cash In/Out Layer**](https://kb.buildomg.org/omisego-official-guide/omg-basics/decentralized-cash-in-out-layer)\*\*\*\*
 
-## **Key concepts**
+## \*\*\*\*[**Key concepts**](https://kb.buildomg.org/omisego-official-guide/key-concepts)\*\*\*\*
 
-#### **Decentralized Network**
+#### \*\*\*\*[**Decentralized Network**](https://kb.buildomg.org/omisego-official-guide/key-concepts/decentralized-network)
 
-#### **Proof of Stake \(PoS\)**
+#### \*\*\*\*[**Proof of Stake \(PoS\)**](https://kb.buildomg.org/omisego-official-guide/key-concepts/proof-of-stake-pos)\*\*\*\*
 
-#### **OMG token function**
+#### \*\*\*\*[**OMG token fu**](https://kb.buildomg.org/omisego-official-guide/key-concepts/omg-token-function)[**nction**](https://kb.buildomg.org/omisego-official-guide/key-concepts/omg-token-function)\*\*\*\*
 
-#### **Scalability with Plasma**
+#### \*\*\*\*[**Scalability with Plasma**](https://kb.buildomg.org/omisego-official-guide/key-concepts/scalability-with-plasma)
 
-#### **Hazards of Centralization**
+#### \*\*\*\*[**Hazards of Centralizat**](https://kb.buildomg.org/omisego-official-guide/key-concepts/hazards-of-centralization)[**on**](https://kb.buildomg.org/omisego-official-guide/key-concepts/hazards-of-centralization)\*\*\*\*
 
-#### **Unbanking the Banked**
+#### \*\*\*\*[**Unbanking the Banked**](https://kb.buildomg.org/omisego-official-guide/key-concepts/unbanking-the-banked)
 
-## **Who will use the network?**
+## \*\*\*\*[**Who will use the network?**](https://kb.buildomg.org/omisego-official-guide/who-will-use-the-network)\*\*\*\*
 
-## **What will OmiseGO do with themselves once the network is built?**
+## \*\*\*\*[**What will OmiseGO do with themselves once the network is built?**](https://kb.buildomg.org/omisego-official-guide/what-will-omisego-do-with-themselves-once-the-network-is-built)\*\*\*\*
 
-## **How does OMG provide for...**
+## \*\*\*\*[**How does OMG provide for...**](https://kb.buildomg.org/omisego-official-guide/how-does-omg-provide-security-scalability-adoption)\*\*\*\*
 
-#### **Security?**
+#### \*\*\*\*[**Security?**](https://kb.buildomg.org/omisego-official-guide/how-does-omg-provide-security-scalability-adoption/security)
 
-#### **Scalability?**
+#### \*\*\*\*[**Scalability?**](https://kb.buildomg.org/omisego-official-guide/how-does-omg-provide-security-scalability-adoption/scalability)
 
-#### **Mainstream Adoption?**
+#### \*\*\*\*[**Mainstream Adoption?**](https://kb.buildomg.org/omisego-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption)
 
-## **Community & Communication**
+## \*\*\*\*[**Community & Communication**](https://kb.buildomg.org/omisego-official-guide/community-and-communication)
 
 ## OMG Deep Dive
 
