@@ -59,7 +59,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 Unsure where to begin contributing to the OMG Network Knowledge Base? You can start by looking through these `good-first-issue` and `help-wanted` issues:
 
 * [Good first issue](https://github.com/buildOMG/kb/issues/3) - issues which should only require a few lines of code, and a test or two.
-* [Help wanted issues](https://github.com/buildOMG/kb/issues/2) - issues which should be a bit more involved than `good-first-issue` issues.
+* [Help wanted issues](https://github.com/buildOMG/kb/issues/4) - issues which should be a bit more involved than `good-first-issue` issues.
 
 Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have.
 
