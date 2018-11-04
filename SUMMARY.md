@@ -1,7 +1,16 @@
 # Table of contents
 
 * [OMG Network Knowledge Base](README.md)
-* [Knowledge Base Index](kb.md)
+* [Contents](kb/README.md)
+  * [Development](kb/development/README.md)
+    * [Contributing](kb/development/contributing.md)
+    * [Code of Conduct](kb/development/code-of-conduct.md)
+* [Use](use.md)
+* [Roadmaps](roadmaps/README.md)
+  * [OmiseGO Roadmap v.1](roadmaps/omisego-roadmap-v.1.md)
+  * [Roadmap Update](roadmaps/roadmap-update.md)
+  * [State of the OMG Ecosystem](roadmaps/state-of-the-omg-ecosystem.md)
+* [Resources](resources.md)
 
 ## OmiseGO Official Guide
 

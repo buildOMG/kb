@@ -1,15 +1,18 @@
 # OMG Network Knowledge Base
-The [OMG Network Knowledge Base](https://kb.omgcommunity.org/) (OMG KB) was conceived as a joint effort between the OMG community and project team to support quality communication and discourse concerning the OMG Network. The OMG KB is maintained by [community contributors](https://github.com/buildOMG/kb/issues) and reflects an ongoing collection of curated information on the status and development of the [OMG Network](https://omisego.network/). 
 
-## **Development** 
-+ [Contributing]
-+ [Code of Conduct]
+The [OMG Network Knowledge Base](https://kb.buildomg.org) \(OMG KB\) was conceived as a joint effort between the OMG community and project team to support quality communication and discourse concerning the OMG Network. The OMG KB is maintained by [community contributors](https://github.com/buildOMG/kb/issues) and reflects an ongoing collection of curated information on the status and development of the [OMG Network](https://omisego.network/).
 
-## **Use** 
-The OMG KB is an open source, comprehensive collection of information and resources related to the OMG Network released under the [MIT License](LICENSE).
- 
+## **Development**
+
+* [Contributing](https://github.com/buildOMG/kb/tree/370ca96d49571e3681d67900f6dbc6c448c75feb/CONTRIBUTING.md)
+* [Code of Conduct](https://github.com/buildOMG/kb/tree/370ca96d49571e3681d67900f6dbc6c448c75feb/CODE_OF_CONDUCT.md)
+
+## **Use**
+
+The OMG KB is an open source, comprehensive collection of information and resources related to the OMG Network released under the [MIT License](https://github.com/buildOMG/kb/tree/370ca96d49571e3681d67900f6dbc6c448c75feb/LICENSE/README.md).
+
 ## **Roadmap**
- 
+
 ## **Resources**
 
 ## **Contents**
@@ -142,5 +145,3 @@ _Please note: the OMG Network is still in development, and some details cannot y
 
 ### Dear bank, where did my 100 bucks go?
 
-[Contributing]: CONTRIBUTING.md
-[Code of Conduct]: CODE_OF_CONDUCT.md
