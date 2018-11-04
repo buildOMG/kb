@@ -159,6 +159,10 @@ Taken from the [Official AMAs](faq/official-amas-1/official-amas.md). Questions 
 >   
 > The original vision of bringing cryptocurrency to the masses was too simplistic. OmiseGO isn’t about convincing people to adopt new or better \(crypto\) currencies. Instead, it is about creating infrastructure which facilitates free transfer of value, no matter what form that value may take. Value is not in the money, it’s in the freedom to use it.
 
+## [When \(wen\) conglomerates?](https://kb.buildomg.org/kb#when-wen-conglomerates)
+
+> Either Soon™ or two wooks, whichever comes first.
+
 ## [Will initial OMG Network transactions only come from exchanges?](https://kb.omgcommunity.org/kb#will-sources-of-transactions-for-staking-in-2018-only-come-from-the-to-be-acquired-exchanges-or-are-there-going-to-be-other-sources-of-volume-and-liquidity-in-2018-such-as-omises-clients-transactions-outside-companies-who-utilize-the-network-etc-if-specifics-cannot-be-provided-than-a-simple-yes-no-would-be-appreciated)
 
 > No, transactions will come from many places including but not limited to providers who build with the OMG Wallet SDK and the Omise’s own centralized exchange holdings.
@@ -215,9 +219,13 @@ Taken from the [Official AMAs](faq/official-amas-1/official-amas.md). Questions 
 
 > The key to enabling widespread adoption of the OMG Network and cryptocurrencies is providing cash-in/cash-out services so individuals can top-up digital wallets via cash agents, such as merchants, as well as withdraw funds in whatever currency is most useful to them. Cash-in/cash-out will enable users who do not have access to bank accounts and those who choose not to use their accounts to top-up or withdraw via cash agents.
 
-## [When is Soon™?](https://kb.omgcommunity.org/kb#how-soon-is-soon-tm)
+## [When is Soon?](https://kb.omgcommunity.org/kb#how-soon-is-soon-tm)
 
 > Either Soon™ or two wooks, whichever comes first.
+
+## [When \(wen\) staking?](https://kb.buildomg.org/kb#when-wen-staking)
+
+Either Soon™ or two wooks, whichever comes first.
 
 ## [How many transactions is Omise processing daily?](https://kb.omgcommunity.org/kb#how-many-transactions-is-omise-currently-processing-daily-8-to-9-figures-is-quite-vague-and-was-from-last-july)
 
