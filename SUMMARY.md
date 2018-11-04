@@ -100,6 +100,12 @@
 * [Business development](deep-dive/business-development/README.md)
   * [Current State](deep-dive/business-development/omise.md)
 
+## Videos
+
+* [Decentralizing Consensus](videos/decentralizing-consensus.md)
+* [The path to a more viable plasma](videos/the-path-to-a-more-viable-plasma.md)
+* [Dear bank, where did my 100 bucks go?](videos/dear-bank-where-did-my-100-bucks-go.md)
+
 ## FAQ
 
 * [Community Q&A](faq/faq.md)
@@ -107,10 +113,4 @@
   * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
   * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
   * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
-
-## Videos
-
-* [Decentralizing Consensus](videos/decentralizing-consensus.md)
-* [The path to a more viable plasma](videos/the-path-to-a-more-viable-plasma.md)
-* [Dear bank, where did my 100 bucks go?](videos/dear-bank-where-did-my-100-bucks-go.md)
 
