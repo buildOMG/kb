@@ -2,24 +2,18 @@
 
 * [OMG Knowledge Base \(OMG KB\)](README.md)
 * [Knowledge Base Index](kb.md)
-
-## Development
-
-* [Contributing](development/contributing.md)
-* [Code of Conduct](development/code-of-conduct.md)
-
-## Use
-
-* [MIT License](use/use.md)
-
-## OMG Network Roadmaps
-
-* [OmiseGO Roadmap v.1](roadmaps/omisego-roadmap-v.1.md)
-* [Roadmap Update](roadmaps/roadmap-update.md)
-* [State of the OMG Ecosystem](roadmaps/state-of-the-omg-ecosystem.md)
+* [Development](development-1/README.md)
+  * [Contributing](development-1/contributing.md)
+  * [Code of Conduct](development-1/code-of-conduct.md)
+* [Use](use-1/README.md)
+  * [MIT License](use-1/use.md)
 
 ## Contents
 
+* [Roadmaps](contents/roadmaps/README.md)
+  * [OmiseGO Roadmap v.1](contents/roadmaps/omisego-roadmap-v.1.md)
+  * [Roadmap Update](contents/roadmaps/roadmap-update.md)
+  * [State of the OMG Ecosystem](contents/roadmaps/state-of-the-omg-ecosystem.md)
 * [OMG Network Official Guide](contents/omg-network-official-guide/README.md)
   * [What is OmiseGO?](contents/omg-network-official-guide/what-is-omisego.md)
   * [Why do we need OMG?](contents/omg-network-official-guide/why-do-we-need-omg.md)
@@ -105,12 +99,13 @@
   * [Business development](contents/deep-dive/business-development/README.md)
     * [Current State](contents/deep-dive/business-development/omise.md)
 
-## OMG NETWORK RESOURCES
+## Resources
 
-* [The path to a more viable plasma](omisego-official-guide/the-path-to-a-more-viable-plasma.md)
-* [Decentralizing Consensus](omisego-official-guide/decentralizing-consensus.md)
-* [Links](omisego-official-guide/resources.md)
-* [Dear bank, where did my 100 bucks go?](omisego-official-guide/dear-bank-where-did-my-100-bucks-go.md)
+* [Videos](resources/videos/README.md)
+  * [The path to a more viable plasma](resources/videos/the-path-to-a-more-viable-plasma.md)
+  * [Decentralizing Consensus](resources/videos/decentralizing-consensus.md)
+  * [Dear bank, where did my 100 bucks go?](resources/videos/dear-bank-where-did-my-100-bucks-go.md)
+* [Links](resources/resources.md)
 
 ## FAQ
 

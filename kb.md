@@ -45,9 +45,9 @@
 
 ## Videos
 
-* [Decentralizing Consensus](omisego-official-guide/decentralizing-consensus.md)
-* [The path to a more viable plasma](omisego-official-guide/the-path-to-a-more-viable-plasma.md)
-* [Dear bank, where did my 100 bucks go?](omisego-official-guide/dear-bank-where-did-my-100-bucks-go.md)
+* [Decentralizing Consensus](resources/videos/decentralizing-consensus.md)
+* [The path to a more viable plasma](resources/videos/the-path-to-a-more-viable-plasma.md)
+* [Dear bank, where did my 100 bucks go?](resources/videos/dear-bank-where-did-my-100-bucks-go.md)
 
 ## FAQ
 

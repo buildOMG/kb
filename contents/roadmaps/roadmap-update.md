@@ -1,6 +1,6 @@
 # Roadmap Update
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 We heard your confusion about spoons, timelines, parallel developments and milestones and we’ve done our best to address them here. The visual roadmap above is an overview of what we are building and our progress to date. We’ve been through many iterations of this roadmap graphic since embarking on the quest for clearer communications in response to your feedback.
 
