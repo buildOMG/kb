@@ -2,8 +2,8 @@
 
 ## Knowledge Base Contents
 
-* [OMG Network Knowledge Base](../)
-* [Knowledge Base Contents](./)
+* [OMG Network Knowledge Base](./)
+* [Knowledge Base Contents](kb.md)
   * [Development](https://kb.buildomg.org/kb/development)
     * [Contributing](https://kb.buildomg.org/kb/development/contributing)
     * [Code of Conduct](https://kb.buildomg.org/kb/development/code-of-conduct)
@@ -16,42 +16,42 @@
 
 ## OmiseGO Official Guide
 
-* [What is OmiseGO?](../omisego-official-guide/what-is-omisego.md)
-* [Why do we need OMG?](../omisego-official-guide/why-do-we-need-omg.md)
-* [Why did a for-profit company choose to invest in building a public network?](../omisego-official-guide/why-did-a-for-profit-company-choose-to-invest-in-building-a-public-network.md)
-* [How was OmiseGO launched?](../omisego-official-guide/how-was-omisego-launched/)
-  * [OMG token allocation & airdrop](../omisego-official-guide/how-was-omisego-launched/omg-token-allocation-and-airdrop.md)
-* [OMG basics](../omisego-official-guide/omg-basics/)
-  * [eWallet Suite](../omisego-official-guide/omg-basics/ewallet-suite.md)
-  * [White-label Wallet Software Development Kit \(SDK\)](../omisego-official-guide/omg-basics/white-label-wallet-software-development-kit-sdk.md)
-  * [Decentralized Exchange \(DEX\)](../omisego-official-guide/omg-basics/decentralized-exchange-dex.md)
-  * [Scalability Network Mechanism](../omisego-official-guide/omg-basics/scalability-network-mechanism.md)
-  * [Decentralized Cash In/Out Layer](../omisego-official-guide/omg-basics/decentralized-cash-in-out-layer.md)
-* [Key concepts](../omisego-official-guide/key-concepts/)
-  * [Decentralized Network](../omisego-official-guide/key-concepts/decentralized-network.md)
-  * [Proof of Stake \(PoS\)](../omisego-official-guide/key-concepts/proof-of-stake-pos.md)
-  * [OMG token function](../omisego-official-guide/key-concepts/omg-token-function.md)
-  * [Scalability with Plasma](../omisego-official-guide/key-concepts/scalability-with-plasma.md)
-  * [Plasma: The Basics](../omisego-official-guide/key-concepts/plasma-the-basics.md)
-  * [Hazards of Centralization](../omisego-official-guide/key-concepts/hazards-of-centralization.md)
-  * [Unbanking the Banked](../omisego-official-guide/key-concepts/unbanking-the-banked.md)
-* [Who will use the network?](../omisego-official-guide/who-will-use-the-network.md)
-* [What will OmiseGO do with themselves once the network is built?](../omisego-official-guide/what-will-omisego-do-with-themselves-once-the-network-is-built.md)
-* [How does OMG provide security, scalability and adoption?](../omisego-official-guide/how-does-omg-provide-security-scalability-adoption/)
-  * [Security?](../omisego-official-guide/how-does-omg-provide-security-scalability-adoption/security.md)
-  * [Scalability?](../omisego-official-guide/how-does-omg-provide-security-scalability-adoption/scalability.md)
-  * [Mainstream Adoption?](../omisego-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)
-* [Community & Communication](../omisego-official-guide/community-and-communication.md)
+* [What is OmiseGO?](omisego-official-guide/what-is-omisego.md)
+* [Why do we need OMG?](omisego-official-guide/why-do-we-need-omg.md)
+* [Why did a for-profit company choose to invest in building a public network?](omisego-official-guide/why-did-a-for-profit-company-choose-to-invest-in-building-a-public-network.md)
+* [How was OmiseGO launched?](omisego-official-guide/how-was-omisego-launched/)
+  * [OMG token allocation & airdrop](omisego-official-guide/how-was-omisego-launched/omg-token-allocation-and-airdrop.md)
+* [OMG basics](omisego-official-guide/omg-basics/)
+  * [eWallet Suite](omisego-official-guide/omg-basics/ewallet-suite.md)
+  * [White-label Wallet Software Development Kit \(SDK\)](omisego-official-guide/omg-basics/white-label-wallet-software-development-kit-sdk.md)
+  * [Decentralized Exchange \(DEX\)](omisego-official-guide/omg-basics/decentralized-exchange-dex.md)
+  * [Scalability Network Mechanism](omisego-official-guide/omg-basics/scalability-network-mechanism.md)
+  * [Decentralized Cash In/Out Layer](omisego-official-guide/omg-basics/decentralized-cash-in-out-layer.md)
+* [Key concepts](omisego-official-guide/key-concepts/)
+  * [Decentralized Network](omisego-official-guide/key-concepts/decentralized-network.md)
+  * [Proof of Stake \(PoS\)](omisego-official-guide/key-concepts/proof-of-stake-pos.md)
+  * [OMG token function](omisego-official-guide/key-concepts/omg-token-function.md)
+  * [Scalability with Plasma](omisego-official-guide/key-concepts/scalability-with-plasma.md)
+  * [Plasma: The Basics](omisego-official-guide/key-concepts/plasma-the-basics.md)
+  * [Hazards of Centralization](omisego-official-guide/key-concepts/hazards-of-centralization.md)
+  * [Unbanking the Banked](omisego-official-guide/key-concepts/unbanking-the-banked.md)
+* [Who will use the network?](omisego-official-guide/who-will-use-the-network.md)
+* [What will OmiseGO do with themselves once the network is built?](omisego-official-guide/what-will-omisego-do-with-themselves-once-the-network-is-built.md)
+* [How does OMG provide security, scalability and adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/)
+  * [Security?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/security.md)
+  * [Scalability?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/scalability.md)
+  * [Mainstream Adoption?](omisego-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)
+* [Community & Communication](omisego-official-guide/community-and-communication.md)
 
 ## Videos
 
-* [Decentralizing Consensus](../videos/decentralizing-consensus.md)
-* [The path to a more viable plasma](../videos/the-path-to-a-more-viable-plasma.md)
-* [Dear bank, where did my 100 bucks go?](../videos/dear-bank-where-did-my-100-bucks-go.md)
+* [Decentralizing Consensus](videos/decentralizing-consensus.md)
+* [The path to a more viable plasma](videos/the-path-to-a-more-viable-plasma.md)
+* [Dear bank, where did my 100 bucks go?](videos/dear-bank-where-did-my-100-bucks-go.md)
 
 ## FAQ
 
-Taken from the [Official AMAs](../faq/official-amas-1/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly.
+Taken from the [Official AMAs](faq/official-amas-1/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly.
 
 ## [Will Cosmos and OmiseGO compete?](https://kb.omgcommunity.org/kb#the-cosmos-hard-spoon-has-been-described-as-a-test-net-by-community-members-but-in-a-blog-post-you-mention-healthy-competition-can-you-clarify-this-tokens-short-term-and-long-term-purpose-i-e-where-will-volume-come-from-who-will-be-managing-promoting-it-and-is-it-something-that-will-be-supported-long-term-or-dropped-in-favor-of-plasma)
 
