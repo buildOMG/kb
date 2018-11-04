@@ -5,7 +5,7 @@
   * [Development](kb/development/README.md)
     * [Contributing](kb/development/contributing.md)
     * [Code of Conduct](kb/development/code-of-conduct.md)
-* [Use](use.md)
+* [Use \(License\)](use.md)
 * [OMG Network Roadmaps](roadmaps/README.md)
   * [OmiseGO Roadmap v.1](roadmaps/omisego-roadmap-v.1.md)
   * [Roadmap Update](roadmaps/roadmap-update.md)

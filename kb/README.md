@@ -1,5 +1,7 @@
 # Knowledge Base Contents
 
+## Knowledge Base Contents
+
 * [OMG Network Knowledge Base](../)
 * [Knowledge Base Contents](./)
   * [Development](https://kb.buildomg.org/kb/development)
