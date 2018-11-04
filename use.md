@@ -4,7 +4,7 @@ description: >-
   resources related to the OMG Network released under the MIT License.
 ---
 
-# Use \(License\)
+# Use
 
 ```text
 MIT License
