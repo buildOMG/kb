@@ -1,16 +1,16 @@
-# Contents
+# Knowledge Base Contents
 
 * [OMG Network Knowledge Base](../)
 * [Knowledge Base Contents](./)
-  * Development
-    * Contributing
-    * Code of Conduct
-* Use
-* Roadmaps
-  * OmiseGO Roadmap v.1
-  * Roadmap Update
-  * State of the OMG Ecosystem
-* Resources
+  * [Development](https://kb.buildomg.org/kb/development)
+    * [Contributing](https://kb.buildomg.org/kb/development/contributing)
+    * [Code of Conduct](https://kb.buildomg.org/kb/development/code-of-conduct)
+* [Use](https://kb.buildomg.org/use)
+* [Roadmaps](https://kb.buildomg.org/roadmaps)
+  * [OmiseGO Roadmap v.1](https://kb.buildomg.org/roadmaps/omisego-roadmap-v.1)
+  * [Roadmap Update](https://kb.buildomg.org/roadmaps/roadmap-update)
+  * [State of the OMG Ecosystem](https://kb.buildomg.org/roadmaps/state-of-the-omg-ecosystem)
+* [Resources](https://kb.buildomg.org/resources)
 
 ## OmiseGO Official Guide
 
