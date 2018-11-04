@@ -1,4 +1,4 @@
-# OMG Network Resources
+# OMG Network Resources Index
 
 
 

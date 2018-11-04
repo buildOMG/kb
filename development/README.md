@@ -1,4 +1,4 @@
-# Contributions & Development
+# Contributing & Development
 
 ## Contributions & Development
 
