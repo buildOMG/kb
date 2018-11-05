@@ -1,4 +1,4 @@
-# OMG Knowledge Base \(OMG KB\)
+# OMG Knowledge Base
 
 ## OMG Network Knowledge Base
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OMG Knowledge Base \(OMG KB\)](README.md)
+* [OMG Knowledge Base](README.md)
 * [Knowledge Base Index](kb.md)
 * [Development](development-1/README.md)
   * [Contributing](development-1/contributing.md)
