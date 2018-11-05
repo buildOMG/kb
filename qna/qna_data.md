@@ -5,8 +5,8 @@ Starter for some guidelines around building good QnA training data for a bot ser
 ## Questions
 
 * To help the models the questions in the training data need to succinct:
-    * Not this: "How safe will staking be? Will the “average Joe” be able to stake without having to worry about his/hers OMGs? Will there be certain precautions that will need to be taken in order to prevent being hacked?"
-    * ...but this: "How safe will staking be?"
+    * Please do not post questions like this: "How safe will staking be? Will the “average Joe” be able to stake without having to worry about his/hers OMGs? Will there be certain precautions that will need to be taken in order to prevent being hacked?"
+    * This is preferred: "How safe will staking be?"
     * ...or this: "Will staking be safe?"
 * We probably need to be careful about having overlapping Q&As in different places
     * `TODO: Can we prioritise one answer over another with metadata?`
