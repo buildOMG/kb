@@ -2,11 +2,11 @@
 
 * [OMG Knowledge Base](README.md)
 * [Knowledge Base Index](kb.md)
-* [Development](development-1/README.md)
-  * [Contributing](development-1/contributing.md)
-  * [Code of Conduct](development-1/code-of-conduct.md)
-* [Use](use-1/README.md)
-  * [MIT License](use-1/use.md)
+* [Development](development/README.md)
+  * [Contributing](development/contributing.md)
+  * [Code of Conduct](development/code-of-conduct.md)
+* [Use](use/README.md)
+  * [MIT License](use/use.md)
 
 ## Contents
 
