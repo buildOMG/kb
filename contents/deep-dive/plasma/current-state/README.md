@@ -12,4 +12,4 @@ _Please note: the OMG Network is still in development, and some details cannot y
 [**Plasma Update \#4 - September 25, 2018**](https://kb.omgcommunity.org/deep-dive/plasma/current-state/plasma-update-4)  
 [**Plasma Update \#5 - October 8, 2018**](https://kb.omgcommunity.org/deep-dive/plasma/current-state/plasma-update-5)  
 [**Plasma Update \#6 - October 22, 2018**](https://kb.omgcommunity.org/deep-dive/plasma/current-state/plasma-update-6)
-
+[**Plasma Update \#7 - November 5, 2018**](https://kb.omgcommunity.org/deep-dive/plasma/current-state/plasma-update-7)
