@@ -14,13 +14,13 @@ The [OMG Network Knowledge Base](https://kb.buildomg.org) \(OMG KB\) was conceiv
 
 The OMG KB is an open source, comprehensive collection of information and resources related to the OMG Network released under the [MIT License](https://kb.buildomg.org/use).
 
-## \*\*\*\*[**OMG Network Roadmaps**](https://kb.buildomg.org/roadmaps)
+## \*\*\*\*[**OMG Network Roadmaps**](https://kb.buildomg.org/contents/roadmaps)
 
-### \*\*\*\*[**OmiseGO Roadmap v.1**](https://kb.buildomg.org/roadmaps/omisego-roadmap-v.1)
+### \*\*\*\*[**OmiseGO Roadmap v.1**](https://kb.buildomg.org/contents/roadmaps/omisego-roadmap-v.1)
 
-### \*\*\*\*[**Roadmap Update**](https://kb.buildomg.org/roadmaps/roadmap-update)
+### \*\*\*\*[**Roadmap Update**](https://kb.buildomg.org/contents/roadmaps/roadmap-update)
 
-### \*\*\*\*[**State of the OMG Ecosystem**](https://kb.buildomg.org/roadmaps/state-of-the-omg-ecosystem)
+### \*\*\*\*[**State of the OMG Ecosystem**](https://kb.buildomg.org/contents/roadmaps/state-of-the-omg-ecosystem)
 
 ## \*\*\*\*[**Knowledge Base Contents**](https://kb.buildomg.org/kb)\*\*\*\*
 
