@@ -2,19 +2,19 @@
 
 ## OMG Knowledge Base
 
-* [Knowledge Base Index](./)
-* [Development](development/)
-* * [Contributing](development/contributing.md)
-  * [Code of Conduct](development/code-of-conduct.md)
-* [Use](use/)
-  * [MIT License](use/use.md)
+* [**Knowledge Base Index**](./)\*\*\*\*
+* \*\*\*\*[**Development**](development/)\*\*\*\*
+* * \*\*\*\*[**Contributing**](development/contributing.md)\*\*\*\*
+  * \*\*\*\*[**Code of Conduct**](development/code-of-conduct.md)\*\*\*\*
+* \*\*\*\*[**Use**](use/)\*\*\*\*
+  * \*\*\*\*[**MIT License**](use/use.md)\*\*\*\*
 
 ## Contents
 
-* [Roadmaps](contents/roadmaps/)
-  * [OmiseGO Roadmap v.1](contents/roadmaps/omisego-roadmap-v.1.md)
-  * [Roadmap Update](contents/roadmaps/roadmap-update.md)
-  * [State of the OMG Ecosystem](contents/deep-dive/roadmap.md)
+* \*\*\*\*[**Roadmaps**](contents/roadmaps/)
+  * \*\*\*\*[**OmiseGO Roadmap v.1**](contents/roadmaps/omisego-roadmap-v.1.md)
+  * \*\*\*\*[**Roadmap Update**](contents/roadmaps/roadmap-update.md)
+  * \*\*\*\*[**State of the OMG Ecosystem**](contents/roadmaps/state-of-the-omg-ecosystem.md)
 
 ## [OmiseGO Official Guide](contents/omg-network-official-guide/)
 
@@ -106,9 +106,9 @@
 
 ## [Videos](resources/videos/)
 
-* [Decentralizing Consensus](resources/videos/decentralizing-consensus.md)
-* [The path to a more viable plasma](resources/videos/the-path-to-a-more-viable-plasma.md)
-* [Dear bank, where did my 100 bucks go?](resources/videos/dear-bank-where-did-my-100-bucks-go.md)
+* \*\*\*\*[**Decentralizing Consensus**](resources/videos/decentralizing-consensus.md)\*\*\*\*
+* \*\*\*\*[**The path to a more viable plasma**](resources/videos/the-path-to-a-more-viable-plasma.md)\*\*\*\*
+* \*\*\*\*[**Dear bank, where did my 100 bucks go?**](resources/videos/dear-bank-where-did-my-100-bucks-go.md)\*\*\*\*
 
 ## [Links](resources/resources.md)
 
@@ -118,13 +118,11 @@
 
 ### [Official AMAs](faq/amas/)
 
-Taken from the [Official AMAs](faq/amas/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly.
+Taken from the [Official AMAs](faq/amas/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly
 
-#### [OmiseGO AMA \#1](faq/amas/official-amas.md)
-
-#### [OmiseGO AMA \#2](faq/amas/omisego-ama-2.md)
-
-#### [OmiseGO AMA \#3](faq/amas/omisego-ama-3.md)
+* \*\*\*\*[**OmiseGO AMA \#1**](faq/amas/official-amas.md)\*\*\*\*
+* \*\*\*\*[**OmiseGO AMA \#2**](faq/amas/omisego-ama-2.md)\*\*\*\*
+* \*\*\*\*[**OmiseGO AMA \#3**](faq/amas/omisego-ama-3.md)\*\*\*\*
 
 ## [Will Cosmos and OmiseGO compete?](https://kb.omgcommunity.org/kb#the-cosmos-hard-spoon-has-been-described-as-a-test-net-by-community-members-but-in-a-blog-post-you-mention-healthy-competition-can-you-clarify-this-tokens-short-term-and-long-term-purpose-i-e-where-will-volume-come-from-who-will-be-managing-promoting-it-and-is-it-something-that-will-be-supported-long-term-or-dropped-in-favor-of-plasma)
 
