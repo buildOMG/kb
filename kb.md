@@ -114,7 +114,7 @@
 
 ## FAQ
 
-Taken from the [Official AMAs](faq/official-amas-1/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly.
+Taken from the [Official AMAs](faq/amas/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly.
 
 ## [Will Cosmos and OmiseGO compete?](https://kb.omgcommunity.org/kb#the-cosmos-hard-spoon-has-been-described-as-a-test-net-by-community-members-but-in-a-blog-post-you-mention-healthy-competition-can-you-clarify-this-tokens-short-term-and-long-term-purpose-i-e-where-will-volume-come-from-who-will-be-managing-promoting-it-and-is-it-something-that-will-be-supported-long-term-or-dropped-in-favor-of-plasma)
 

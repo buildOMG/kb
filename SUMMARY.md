@@ -110,8 +110,8 @@
 ## FAQ
 
 * [Community Q&A](faq/faq.md)
-* [Official AMAs](faq/official-amas-1/README.md)
-  * [OmiseGO AMA \#1](faq/official-amas-1/official-amas.md)
-  * [OmiseGO AMA \#2](faq/official-amas-1/omisego-ama-2.md)
-  * [OmiseGO AMA \#3](faq/official-amas-1/omisego-ama-3.md)
+* [Official AMAs](faq/amas/README.md)
+  * [OmiseGO AMA \#1](faq/amas/official-amas.md)
+  * [OmiseGO AMA \#2](faq/amas/omisego-ama-2.md)
+  * [OmiseGO AMA \#3](faq/amas/omisego-ama-3.md)
 
