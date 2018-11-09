@@ -3,20 +3,20 @@
 ## OMG Knowledge Base
 
 * [Knowledge Base Index](./)
-* [Development](https://kb.buildomg.org/kb/development)
-* * [Contributing](https://kb.buildomg.org/kb/development/contributing)
-  * [Code of Conduct](https://kb.buildomg.org/kb/development/code-of-conduct)
-* [Use](https://kb.buildomg.org/use)
-  * MIT License
+* [Development](development/)
+* * [Contributing](development/contributing.md)
+  * [Code of Conduct](development/code-of-conduct.md)
+* [Use](use/)
+  * [MIT License](use/use.md)
 
 ## Contents
 
-* [Roadmaps](https://kb.buildomg.org/roadmaps)
-  * [OmiseGO Roadmap v.1](https://kb.buildomg.org/roadmaps/omisego-roadmap-v.1)
-  * [Roadmap Update](https://kb.buildomg.org/roadmaps/roadmap-update)
-  * [State of the OMG Ecosystem](https://kb.buildomg.org/roadmaps/state-of-the-omg-ecosystem)
+* [Roadmaps](contents/roadmaps/)
+  * [OmiseGO Roadmap v.1](contents/roadmaps/omisego-roadmap-v.1.md)
+  * [Roadmap Update](contents/roadmaps/roadmap-update.md)
+  * [State of the OMG Ecosystem](contents/deep-dive/roadmap.md)
 
-## OmiseGO Official Guide
+## [OmiseGO Official Guide](contents/omg-network-official-guide/)
 
 * [**What is OmiseGO?**](contents/omg-network-official-guide/what-is-omisego.md)\*\*\*\*
 * \*\*\*\*[**Why do we need OMG?**](contents/omg-network-official-guide/why-do-we-need-omg.md)\*\*\*\*
@@ -45,26 +45,26 @@
   * \*\*\*\*[**Mainstream Adoption?**](contents/omg-network-official-guide/how-does-omg-provide-security-scalability-adoption/mainstream-adoption.md)\*\*\*\*
 * \*\*\*\*[**Community & Communication**](contents/omg-network-official-guide/community-and-communication.md)\*\*\*\*
 
-## Deep Dive
+## [Deep Dive](contents/deep-dive/)
 
-* **OmiseGO and the OMG Network**
-  * **Vision**
-  * **Mission**
-* **Benefits of the OMG Network**
-  * **Access**
-  * **Security**
-  * **Scalability**
-  * **Interoperability**
-  * **Decentralized**
-* **What is the OMG Network**
-  * **Introductions by persona/profiles**
-* **OMG Token**
-* **OMG Ecosystem Roadmap**
-* **Tengen: The End Game**
-* **Decentralized Exchange Layer**
-  * **OMG DEX Design**
+* \*\*\*\*[**OmiseGO and the OMG Network**](contents/deep-dive/omg-network/)
+  * \*\*\*\*[**Vision**](contents/deep-dive/omg-network/vision.md)\*\*\*\*
+  * \*\*\*\*[**Mission**](contents/deep-dive/omg-network/mission.md)\*\*\*\*
+* \*\*\*\*[**Benefits of the OMG Network**](contents/deep-dive/benefits-of-the-omg-network/)
+  * \*\*\*\*[**Access**](contents/deep-dive/benefits-of-the-omg-network/access.md)
+  * \*\*\*\*[**Security**](contents/deep-dive/benefits-of-the-omg-network/security.md)\*\*\*\*
+  * \*\*\*\*[**Scalability**](contents/deep-dive/benefits-of-the-omg-network/scalability.md)
+  * \*\*\*\*[**Interoperability**](contents/deep-dive/benefits-of-the-omg-network/interoperability.md)
+  * \*\*\*\*[**Decentralized**](contents/deep-dive/benefits-of-the-omg-network/decentralized.md)
+* \*\*\*\*[**What is the OMG Network**](contents/deep-dive/what-is-the-omg-network/)
+  * \*\*\*\*[**Introductions by persona/profiles**](contents/deep-dive/what-is-the-omg-network/introductions-by-persona-profiles.md)
+* \*\*\*\*[**OMG Token**](contents/deep-dive/omg-token.md)
+* \*\*\*\*[**OMG Ecosystem Roadmap**](contents/deep-dive/roadmap.md)
+* \*\*\*\*[**Tengen: The End Game**](contents/deep-dive/tengen-the-end-game.md)
+* \*\*\*\*[**Decentralized Exchange Layer**](contents/deep-dive/dex-exchanges/)
+  * \*\*\*\*[**OMG DEX Design**](contents/deep-dive/dex-exchanges/omg-dex-design.md)
   * **Current State**
-  * **DEX Resources**
+  * \*\*\*\*[**DEX Resources**](contents/deep-dive/dex-exchanges/dex-resources.md)
 * **eWallet Suite**
   * **What are integration libraries?**
   * **eWallet Suite Current State**
@@ -104,17 +104,27 @@
 * **Business Development**
   * **Current State**
 
-## Videos
+## [Videos](resources/videos/)
 
 * [Decentralizing Consensus](resources/videos/decentralizing-consensus.md)
 * [The path to a more viable plasma](resources/videos/the-path-to-a-more-viable-plasma.md)
 * [Dear bank, where did my 100 bucks go?](resources/videos/dear-bank-where-did-my-100-bucks-go.md)
 
-## Links
+## [Links](resources/resources.md)
 
 ## FAQ
 
+### [Community Q&A](faq/faq.md)
+
+### [Official AMAs](faq/amas/)
+
 Taken from the [Official AMAs](faq/amas/official-amas.md). Questions and answers have been updated and modified to make them more search-friendly.
+
+#### [OmiseGO AMA \#1](faq/amas/official-amas.md)
+
+#### [OmiseGO AMA \#2](faq/amas/omisego-ama-2.md)
+
+#### [OmiseGO AMA \#3](faq/amas/omisego-ama-3.md)
 
 ## [Will Cosmos and OmiseGO compete?](https://kb.omgcommunity.org/kb#the-cosmos-hard-spoon-has-been-described-as-a-test-net-by-community-members-but-in-a-blog-post-you-mention-healthy-competition-can-you-clarify-this-tokens-short-term-and-long-term-purpose-i-e-where-will-volume-come-from-who-will-be-managing-promoting-it-and-is-it-something-that-will-be-supported-long-term-or-dropped-in-favor-of-plasma)
 
