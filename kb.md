@@ -63,46 +63,46 @@
 * \*\*\*\*[**Tengen: The End Game**](contents/deep-dive/tengen-the-end-game.md)
 * \*\*\*\*[**Decentralized Exchange Layer**](contents/deep-dive/dex-exchanges/)
   * \*\*\*\*[**OMG DEX Design**](contents/deep-dive/dex-exchanges/omg-dex-design.md)
-  * **Current State**
+  * \*\*\*\*[**Current State**](https://kb.buildomg.org/contents/deep-dive/dex-exchanges/current-state)\*\*\*\*
   * \*\*\*\*[**DEX Resources**](contents/deep-dive/dex-exchanges/dex-resources.md)
-* **eWallet Suite**
-  * **What are integration libraries?**
-  * **eWallet Suite Current State**
-    * **eWallet Update \#1**
-    * **eWallet Update \#2**
-    * **eWallet Update \#3**
-    * **eWallet Update \#4**
-    * **eWallet Update \#5**
-    * **eWallet Update \#6**
-    * **eWallet Update \#7**
-    * **eWallet Update \#8**
-    * **eWallet Update \#9**
-    * **eWallet Update \#10**
-  * **Implementation**
-  * **Resources**
-* **Plasma**
-  * **Plasma MVP**
-  * **MoreVP \(More Viable Plasma\)**
-  * **Plasma Cash**
-  * **Plasma XT**
-  * **Plasma Debit**
-  * **Plasma Current State**
-    * **Plasma Update \#1**
-    * **Plasma Update \#2**
-    * **Plasma Update \#3**
-    * **Plasma Update \#4**
-    * **Plasma Update \#5**
-    * **Plasma Update \#6**
-  * **Plasma Resources**
-* **Cash in/out**
-  * **What is Cash in/out?**
-  * **Current State**
-* **Proof of Stake Consensus Mechanism**
-  * **What Does Staking Mean?**
-  * **Current State**
-  * **Resources**
-* **Business Development**
-  * **Current State**
+* \*\*\*\*[**eWallet Suite**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite)
+  * \*\*\*\*[**What are integration libraries?**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/what-is-an-sdk)
+  * \*\*\*\*[**eWallet Suite Current State**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state)
+    * \*\*\*\*[**eWallet Update \#1**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-1)
+    * \*\*\*\*[**eWallet Update \#2**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-2)
+    * \*\*\*\*[**eWallet Update \#3**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-3)
+    * \*\*\*\*[**eWallet Update \#4**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-4)
+    * \*\*\*\*[**eWallet Update \#5**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-5)
+    * \*\*\*\*[**eWallet Update \#6**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-6)
+    * \*\*\*\*[**eWallet Update \#7**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-7)
+    * \*\*\*\*[**eWallet Update \#8**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-8)
+    * \*\*\*\*[**eWallet Update \#9**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-9)
+    * \*\*\*\*[**eWallet Update \#10**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-10)
+  * \*\*\*\*[**Implementation**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/implementation)
+  * \*\*\*\*[**Resources**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/resources)
+* \*\*\*\*[**Plasma**](https://kb.buildomg.org/contents/deep-dive/plasma)\*\*\*\*
+  * \*\*\*\*[**Plasma MVP**](https://kb.buildomg.org/contents/deep-dive/plasma/plasma-mvp-1)
+  * \*\*\*\*[**MoreVP \(More Viable Plasma\)**](https://kb.buildomg.org/contents/deep-dive/plasma/morevp-more-viable-plasma)
+  * \*\*\*\*[**Plasma Cash**](https://kb.buildomg.org/contents/deep-dive/plasma/plasma-cash)
+  * \*\*\*\*[**Plasma XT**](https://kb.buildomg.org/contents/deep-dive/plasma/plasma-xt)
+  * \*\*\*\*[**Plasma Debit**](https://kb.buildomg.org/contents/deep-dive/plasma/plasma-debit)
+  * \*\*\*\*[**Plasma Current State**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state)
+    * \*\*\*\*[**Plasma Update \#1**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-1)
+    * \*\*\*\*[**Plasma Update \#2**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-2)
+    * \*\*\*\*[**Plasma Update \#3**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-3)
+    * \*\*\*\*[**Plasma Update \#4**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-4)
+    * \*\*\*\*[**Plasma Update \#5**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-5)
+    * \*\*\*\*[**Plasma Update \#6**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-6)
+  * \*\*\*\*[**Plasma Resources**](https://kb.buildomg.org/contents/deep-dive/plasma/plasma-resources)
+* \*\*\*\*[**Cash in/out**](https://kb.buildomg.org/contents/deep-dive/cash-in-out-1)
+  * \*\*\*\*[**What is Cash in/out?**](https://kb.buildomg.org/contents/deep-dive/cash-in-out-1/what-is-cash-in-out)
+  * \*\*\*\*[**Current State**](https://kb.buildomg.org/contents/deep-dive/cash-in-out-1/current-state)
+* \*\*\*\*[**Proof of Stake Consensus Mechanism**](https://kb.buildomg.org/contents/deep-dive/staking)
+  * \*\*\*\*[**What Does Staking Mean?**](https://kb.buildomg.org/contents/deep-dive/staking/what-does-staking-means)
+  * \*\*\*\*[**Current State**](https://kb.buildomg.org/contents/deep-dive/staking/current-state-1)
+  * \*\*\*\*[**Resources**](https://kb.buildomg.org/contents/deep-dive/staking/resources)\*\*\*\*
+* \*\*\*\*[**Business Development**](https://kb.buildomg.org/contents/deep-dive/business-development)
+  * \*\*\*\*[**Current State**](https://kb.buildomg.org/contents/deep-dive/business-development/omise)
 
 ## [Videos](resources/videos/)
 
