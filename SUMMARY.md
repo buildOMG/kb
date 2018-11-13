@@ -73,6 +73,7 @@
       * [eWallet Update \#8](contents/deep-dive/ewallet-suite/current-state/ewallet-update-8.md)
       * [eWallet Update \#9](contents/deep-dive/ewallet-suite/current-state/ewallet-update-9.md)
       * [eWallet Update \#10](contents/deep-dive/ewallet-suite/current-state/ewallet-update-10.md)
+      * [eWallet Update \#11](contents/deep-dive/ewallet-suite/current-state/ewallet-update-11.md)
     * [Implementation](contents/deep-dive/ewallet-suite/implementation.md)
     * [Resources](contents/deep-dive/ewallet-suite/resources.md)
   * [Plasma](contents/deep-dive/plasma/README.md)
@@ -114,4 +115,5 @@
   * [OmiseGO AMA \#1](faq/amas/official-amas.md)
   * [OmiseGO AMA \#2](faq/amas/omisego-ama-2.md)
   * [OmiseGO AMA \#3](faq/amas/omisego-ama-3.md)
+  * [OmiseGO AMA \#4](faq/amas/omisego-ama-4.md)
 
