@@ -1,9 +1,5 @@
 # Community Q&A
 
-{% hint style="warning" %}
-_Please note: the OMG Network is still in development, and some details cannot yet be included. This knowledge base will be revised regularly to include updates and additional details._
-{% endhint %}
-
 ## Community Q&A
 
 ## [What is the difference between Omise and Omise Go? And why aren't Omise's current investors funding Omise Go?](https://www.reddit.com/r/ethereum/comments/5uo5sg/omise_go_ewallet_platform_for_payments/ddxpx4j/?context=3)
@@ -212,6 +208,138 @@ We will deliver something first class: a public Plasma network that is open and 
 And we're not leveraging legacy centralized tech like VISA/MasterCard, we're using Ethereum to replace it. With a decentralized solution that is almost ready to go to market, and run by you.
 
 Forget the sticker!
+
+## [0x vs. omega one vs. kyber network, which ones your favorite and why](https://www.reddit.com/r/ethtrader/comments/6syabm/0x_vs_omega_one_vs_kyber_network_which_ones_your/)
+
+Just for posterity, don't forget OmiseGO \(OMG\) - the Plasma decentralized exchange. [https://twitter.com/omise\_go/status/897003999403982848](https://twitter.com/omise_go/status/897003999403982848)
+
+\(And we're supportive of all 3 other projects to the extent that they can provide useful services to people. Especially interested to see how Kyber's on-chain matching system will work out!\)
+
+## [As I understand Plasma works with PoS - we can't have it until PoS transition is finished.](https://www.reddit.com/r/ethtrader/comments/6txoop/plasma_is_more_advanced_than_most_realise_omg/dlp0maq/)
+
+Plasma works without Casper. Does not need PoS on the root chain.
+
+## [Vitalik & omisego Joseph poon cooperate tackle scalability issues](https://www.reddit.com/r/omise_go/comments/6uaqcs/vitalik_omisego_joseph_poon_cooperate_tackle/)
+
+Oops... The article missed the fact that the OMG network is a scalable on-chain decentralised exchange :-\)
+
+## [This is the CEO of OMG's twitter profile picture! I don't even think he's trying to be subtle.](https://www.reddit.com/r/omise_go/comments/6u33cf/this_is_the_ceo_of_omgs_twitter_profile_picture_i/)
+
+He skates, just mostly between the car and office these days.
+
+Don't make too much of the stickers guys. Like someone else here said, we do zero marketing, so this isn't any different. Same as Vitalik's laptop, it's just taste, enthusiasm, and sentimental value.
+
+## [No problem! Thank _you_ for taking the time to watch. You've been around here as long as I have, so you know I have the best intentions when it comes to Ethereum, this sub-reddit, and the people that populate it. Hopefully some of the newcomers over the past 6+ months can benefit from our trials and tribulations. :\)](https://www.reddit.com/r/ethtrader/comments/6ujgw0/investment_prerequisites_omg_0x_metropolis/dlt9a4x/)
+
+Hi! Thanks for the great video talk. It's really inspiring to see community members engaged and supportive. Just in case it's helpful, we would like to offer a few clarifications on some topics discussed.
+
+* We moved from doing a simple capped 'first through the gate' on-chain sale to a 'presale-only' sale because of unacceptable whale attacks on simple capped sales. Because our project goal is to launch a public PoS network \(that works on top of the Ethereum mainnet\), getting a strong distribution of token holders is crucial; it would have been terrible if [what happened with BAT](https://twitter.com/myetherwallet/status/870029936941162496) and other simple capped sales happened to OMG, and so we thought about it very seriously and decided to run everything through 'presale' platforms for their property of non-trivial Sybil resistance. Other models were considered in [long discussions with our advisors](http://vitalik.ca/general/2017/06/09/sales.html) but ultimately we decided [this would be the way to go](https://www.omise.co/omisego-crowdfunding-structure-update). It is also important to please note that all 'presales' were 100% public \(according to the terms of service of the platforms used\); **there was no private sale whatsoever.**
+* The OMG network is the Plasma decentralized exchange, and contributes directly to Ethereum scaling via Plasma development and to Ethereum's economic security by driving value to ETH \(on which hashrate OMG will depend for its own security\). OmiseGO will use the network for our own business purposes but ultimately once it is built, it is out of our hands and we will have no more claim to its power than anyone else. Community service has been the chief spirit of our engagement in Ethereum since 2015, and **OMG will be a 100% open and decentralized network, no less so than Ethereum or Bitcoin.**
+* Our advisors have been strongly engaged in OMG development because, simply put, OMG is good not just for the Ethereum community and network, but for entire crypto space as a whole. Two of them participated in writing the whitepapers that describe what we are building: [OMG network](https://cdn.omise.co/omg/whitepaper.pdf) & [Plasma](http://plasma.io/plasma.pdf). However, ultimately we take full responsibility for what we are building under their stewardship.
+
+Thank you so much for all your support. We will work tirelessly to accomplish our goals. 🙇
+
+## [Is OmiseGO planning to break off of Ethereum and form its own protocol? If so, when?](https://www.reddit.com/r/omise_go/comments/6uxif9/is_omisego_planning_to_break_off_of_ethereum_and/)
+
+The OMG network will be a Plasma chain that uses Ethereum as its root chain. Vitalik has called it an Ethereum sidechain several times but Joseph is adamant that that's not the right way to look at it. While we get the vocabulary sorted out, see [https://plasma.io](https://plasma.io/) to understand what the vocabulary refers to. Alternately, this reddit comment provides a decent summary: [https://www.reddit.com/r/ethereum/comments/6sqca5/plasma\_scalable\_autonomous\_smart\_contracts/dleskw5/](https://www.reddit.com/r/ethereum/comments/6sqca5/plasma_scalable_autonomous_smart_contracts/dleskw5/)
+
+Hope that helps!
+
+## [My understanding of plasma is that the Ethereum chain functions as a tree trunk with each "sidechain" branching off, possibly into smaller and smaller chains for various applications. Would it be more accurate to describe Ethereum as a root chain and OMG as the branch chain?](https://www.reddit.com/r/omise_go/comments/6uxif9/is_omisego_planning_to_break_off_of_ethereum_and/dlwhxdb/)
+
+Sure, and even more accurate still to describe the relationship as root &lt;&gt; trunk, with branches \(and various orders of twigs and leaves\) coming off of the trunk. The only thing that connects to the root is the trunk, otherwise known as the Plasma parent chain \(and the sub-chains are known as child chains.
+
+Root, parent, children.
+
+## [Omg linked to ethereum](https://www.reddit.com/r/omise_go/comments/6v0emn/omg_linked_to_ethereum/)
+
+Possibly, or possibly it would get forked and switch over to a different root chain. Ultimately Plasma is root chain agnostic but it would be easiest if the root chain ran the EVM.
+
+## [I once noted that the RSK would be much more useful as a side chain at ETH than BTC \(more compatibility and cooperative development\). Plasma reminds me of this idea. OMG is looking to be a unicorn. The team is impressive, and the BIG advisors are not just on the sidelines. I've stuck with ETH \(and a tad of BTC/BCC\) in my crypto portfolio for a very long time, but I made an exception for OMG. Too much of a no brainer. I like many other tokens, but I typically support them indirectly, through ETH.](https://www.reddit.com/r/ethtrader/comments/6uyqd5/the_omg_network_will_be_a_plasma_chain_that_uses/dlwfpvu/)
+
+So an immediate difference between RSK \(Rootstock\) and Plasma is that Plasma doesn't depend on merge-mining, nor is it a federated sidechain \(so it has better decentralization and security properties than a sidechain would permit\). See section 4 of the plasma whitepaper draft \(and relevant citations\) for more details: [http://plasma.io/plasma.pdf](http://plasma.io/plasma.pdf)
+
+That said, something like Plasma could run _on_ Rootstock, if the goal were to use Bitcoin as the root chain.
+
+However, OMG - the Plasma decentralized exchange - will use Ethereum as its root chain.
+
+## [Value proposition for ERC-20 tokens like OMG](https://www.reddit.com/r/ethereum/comments/6v2sbv/value_proposition_for_erc20_tokens_like_omg/)
+
+The OMG network is a Plasma chain \(see plasma.io\) with a decentralized exchange built directly into its Proof-of-Stake consensus layer. It is a totally open, public, permissionless blockchain, like Bitcoin or Ethereum, except it has the unique feature of being directly linked to, and ultimately depending on, the Ethereum mainnet for its economic security. In this way, OMG has a special incentive alignment with Ethereum that no other ERC20 token shares.
+
+OmiseGO is the business building this network, so that we can use it for our business applications. Anyone else can use it, for any reason they see fit, too.
+
+OMG holders can use OMG to validate the PoS network. If they validate a block correctly, they get paid the tx fees from that block \(but if they validate incorrectly, they get punished\). Like PoW mining but without the need for hardware - and if you do bad stuff the network doesn't like, you don't burn expensive electricity without reward like in PoW, instead you lose some of your OMG.
+
+Hope that helps!
+
+## [If you are seriously interested in looking at valuation of OMG and other financial tokens, these two articles are a good place to start. They both address TenX, but the thinking behind them is solid and equally applicable to OMG. Disclosure: I am long OMG and PLU. I believe that OMG is overpriced here and that PLU is undervalued.](https://www.reddit.com/r/ethereum/comments/6v2sbv/value_proposition_for_erc20_tokens_like_omg/dly0vgr/)
+
+The token described in these articles is for sharing a form of company revenue. That is a totally different use from what OMG is for. The utility-value of OMG is as a network validation token, on a public decentralized exchange \(that will serve as a single point of execution for trading liquidity which will be mostly unrelated to OmiseGO's own business uses\).
+
+Both the business use cases of the tokens, as well as the network use cases of the tokens, are completely unrelated. Please don't mistake them!
+
+## [Thanks, that helps a lot. So the value proposition for the token is the possibility to partake in the validation process and earn money from fees?](https://www.reddit.com/r/ethereum/comments/6v2sbv/value_proposition_for_erc20_tokens_like_omg/dlxudrg/)
+
+Yes. OMG functions as a security deposit which solves the "nothing-at-stake" problem, comparable to Casper \(the planned Ethereum PoS upgrade\).
+
+## [But you get paid in OMG for staking right? So the value of OMG is you can get more OMG? How does that actually give value? Could you elaborate on that?](https://www.reddit.com/r/ethereum/comments/6v2sbv/value_proposition_for_erc20_tokens_like_omg/dm0bwlr/)
+
+It's the same as any staking token \(or, ultimately, currency, for that matter\). Ultimately, the expectation of value, which is a security assumption for the network, is predicated on the expectation of value. Relatively, if we are to ignore this 'turtles all the way down' aspect of the nature of monetary reality, we can say that the expectation that people will use and continue to use an OMG-based decentralized exchange with high transaction volume, is what gives OMG value. Hope that helps.
+
+## [Arent you describing exactly what ETH is...a staking token? What seperates OMG from ETH? Im still not totally getting it. Is what makes it unique is that its using Plasma to handle mass transactions?](https://www.reddit.com/r/ethereum/comments/6v2sbv/value_proposition_for_erc20_tokens_like_omg/dly7k5u/)
+
+Yes, Plasma enables OMG to perform mass transactions that the Ethereum network isn't suited for. The OMG network isn't a system where the network token is used to propose trades \(for which ETH could well be the token used\), it's one where the token is used to secure the network consensus. Mechanically it works out better if it's a separate token from the root chain's token.
+
+## [Ahhh okay...so its semi-protocol token? Do u envision projects like Kik Kin using...](https://www.reddit.com/r/ethereum/comments/6v2sbv/value_proposition_for_erc20_tokens_like_omg/dlz55v1/)
+
+It's a protocol token for a protocol that really does need a token, yes, and this protocol is really far down the stack. Can't comment on Kik Kin but as for other projects... well, I hesitate to write it because it's becoming a bit of a meme for us lately, but "news coming soon" \(sorry! It really is\) \[insert waiting skeleton here\]
+
+## [how does omg compare with zrx or kyber coming up? are they competing platforms or complementary? i see omg as more ambitious and more end to end with payment interfaces, exchange protocol, and proof of stake-style blockchain technologies that revolutionize payments, transfers, and decentralized trade across multiple blockchains using plasma while interoperating with lightning network. oh boy, that was long! but curious who we consider competitors or potential partners](https://www.reddit.com/r/omise_go/comments/6vedji/daily_discussion_august_23rd_2017/dlzqfee/)
+
+Good points in this response, especially concerning the business use cases. One point to add: the OMG network is actually a single-point-of-execution decentralized exchange for all fiat and crypto that runs across it. Unlike the projects you mention, which run mechanisms either off-chain or as applications in Ethereum, the OMG decentralized exchange uses [Plasma](https://plasma.io/) to run on-chain, and directly in consensus, alongside Ethereum. So we're fully decentralized, and also fully on-chain, without either the security loss or performance loss. As a further note, the OMG network is also cross-chain compatible \(it can also handle decentralized trades sent from other blockchains\).
+
+Brief summary here: [https://www.coindesk.com/striking-twice-lightnings-joseph-poon-takes-on-ethereum-exchange-project/](https://www.coindesk.com/striking-twice-lightnings-joseph-poon-takes-on-ethereum-exchange-project/)
+
+Tl;dr: OMG network is the Plasma decentralized exchange
+
+## [Is OmiseGo the Ethereum Foundation's test ship for Proof of Stake?](https://www.reddit.com/r/omise_go/comments/6vwnua/is_omisego_the_ethereum_foundations_test_ship_for/)
+
+OMG network does not require Casper. But Casper and sharding on the root \(Ethereum\) blockchain would help even more!
+
+There is no Ethereum Foundation involvement with OmiseGO, but we have been supportive of the entire Ethereum community since 2015, and we genuinely believe correct and careful application of Ethereum can responsibly address many of society's financial needs. Plasma will be a big part of that, which is why we have been backing scaling and proof-of-stake research intensively, and why the OMG network has ended up the Plasma decentralized exchange running on a proof-of-stake network alongside Ethereum.
+
+We hope that our efforts will lead to benefit for the entire Ethereum community, and the general crypto community as a whole. Further, we hope this work will help bring the technology and economic benefits accessible to people in the crypto community to mass adoption for the benefit of all people, going beyond financial inclusion and into harmonious financial equity.
+
+## [Here's OMG in a nutshell. It's sort of like an insured payment system for crypto. You want to buy a cup of coffee, so you wander into Starfucks and buy one using XMR - You blip your card to pay with XMR but OMG makes the payment instantly so you get the coffee without having to wait half an hour for the payment to go through. Meanwhile OMG is the one that sits and waits for the payment to go through. Now that it's explained go and invest in it. Oh and it rewards you for holding - every transaction the fees get split among OMG holders.](https://www.reddit.com/r/CryptoCurrency/comments/6w0ugc/what_is_omisego_and_how_does_it_work/dm54zl1/)
+
+Not exactly...
+
+The OMG network is a Plasma chain \(see plasma.io\) with a decentralized exchange built directly into its Proof-of-Stake \(PoS\) consensus layer. It is a totally open, public, permissionless blockchain, like Bitcoin or Ethereum, except it has the unique feature of being directly linked to, and ultimately depending on, the Ethereum mainnet for its economic security. In this way, OMG has a special incentive alignment with Ethereum that no other ERC20 token shares.
+
+OmiseGO is the business building this network, so that we can use it for our business applications. Anyone else can use it, for any reason they see fit, too.
+
+OMG holders can use OMG as a security deposit to validate the PoS network. If validators validate a block correctly, they get paid the tx fees from that block, but if they validate incorrectly, they get punished. It's like Proof-of-Work \(PoW\) mining but without the need for hardware - and if you do bad stuff the network doesn't like, you don't burn expensive electricity without reward like in PoW, instead you lose some of your OMG.
+
+Hope that helps!
+
+## [That sounds really cool and exciting. The potential seems unbelievably huge, almost so much that I think I must be missing something. What are the major threats to this really taking off? I keep looking for negative information on OMG to try and get a better sense of what kind of an investment potential is there, but so far there isn't much that I've found. Is this way too good to be true or is my imagination getting a little over excited? Or...?](https://www.reddit.com/r/omise_go/comments/723ztn/omisego_vs_rabbit_card_in_thailand/dnfyldm/)
+
+Nakamoto consensus was "too good to be true" too but here we are.
+
+Potential threats: lack of network effect due to unpredictable coordination dynamics, short-sighted state-level interference early on, critical flaws in Plasma that can't be fixed.
+
+Negative things that people complain about, as far as we can tell from reddit: perception that Jun \(CEO\) hypes the project by posting misleading photos or comments on his personal Twitter; no public repo available means we aren't committed to open source; redditors \(presumably token holders\) excitedly posting OmiseGO/OMG related content where people are tired of seeing it. All these things are genuine misunderstandings and we'll address them as soon as we have time \(coming soon! sorry couldn't help the joke\).
+
+Thanks for the support!
+
+
+
+
+
+
+
+
 
 
 
