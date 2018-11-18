@@ -333,9 +333,34 @@ Negative things that people complain about, as far as we can tell from reddit: p
 
 Thanks for the support!
 
+## [How Do I Integrate with OMG?](https://www.reddit.com/r/omise_go/comments/9wpxk4/how_do_i_integrate_with_omg/)
 
+We have a dedicated team working with potential implementers to explore possibilities with the OMG tech stack - we'll DM with contact info.
 
+## [Wasn't it Optimistically Q3, Pessimistically Q4? Does anybody else following a roadmap with no dates?](https://www.reddit.com/r/omise_go/comments/9wi6ed/daily_discussion_november_13_2018/e9lt1fs/)
 
+Dateless roadmaps are actually pretty common. To name a few \(randomly chosen but well known\) examples:
+
+* Stellar put out a single post at the beginning of 2018 with broad goals for the year, then periodic \(postmortem\) progress reports and announcements of completed major developments throughout the year: [https://www.stellar.org/blog/2018-Stellar-Roadmap/](https://www.stellar.org/blog/2018-Stellar-Roadmap/)
+* Cardano doesn't give dates but shares progress trackers similar to our own: [https://cardanoroadmap.com/](https://cardanoroadmap.com/)
+* Zcash shares product releases and upgrades at the time of release: [https://z.cash/upgrade/](https://z.cash/upgrade/)
+* EOS shares past and present phases by season, with a one-sentence description of what they're working on in summer/fall 2018, no target dates for any specific milestone, and no indication of dates beyond the current phase
+
+Presumably all of these projects have internal roadmaps with target timelines, as do we. Early on we chose to share those internal targets in the interest of complete transparency; but despite disclaimers that all targets were estimates and subject to change, it became clear that people were making investment decisions based on far-future milestone estimates. The cryptosphere is particularly susceptible to impulsive speculation, and we don't want to play a part in that if we can help it.
+
+Between Jun's well-meant but admittedly overenthusiastic comments in 2017, to the widespread interpretation of best guesses as guarantees, we've learned our lesson. From here on out we will be as transparent as possible about progress on our [task list](https://github.com/buildOMG/tracker/projects/1#card-14215351); continue to provide detailed weekly updates; share our broad goals and the work to be done to accomplish them; and of course never excite. But we're going cold turkey on dates.
+
+If your concern is limbo: we aren't in limbo and we haven't hit any major unexpected roadblocks. We're not hiding anything. But the thing about unexpected roadblocks is that they're, well, unexpected. On the off chance that progress slows because of something we didn't anticipate, we do not want to have made promises we can't keep. One promise we can and will keep is to continue to work hard every day to keep checking tasks off the list, and share that progress with you as we go.
+
+The one thing that is out of our hands to be fully transparent about is announcements about specific companies that have decided to implement OMG. Dates of those announcements are entirely up to the implementers and many of them want to wait until they have a working proof of concept. All we can say is that we haven't had anyone pull out of PoC development and our efforts to bring volume to the network through partnerships and implementation support are ongoing.
+
+## [Where can I find the Stewart Brand Keynote from DevCon4?](https://www.reddit.com/r/omise_go/comments/9wi6ed/daily_discussion_november_13_2018/e9mvz4g/)
+
+Full interview [here](https://slideslive.com/38911677/a-conversation-with-stewart-brand).
+
+## [In the Github milestones there are 25 open issues under 1.1. Why is it that we are working on so many details in 1.1 rather than moving to 1.2 that has the important feature of Blockchain Integration?](https://www.reddit.com/r/omise_go/comments/9wkmj5/ewallet_update_november_12_2018_the_the_light/e9o6svm/)
+
+This is all leading up to Ethereum integration; the features we're working on are required to provide a smooth integration and save us from making assumptions about how providers want to run their eWallet.
 
 
 
