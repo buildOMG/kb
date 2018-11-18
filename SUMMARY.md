@@ -117,4 +117,5 @@
   * [OmiseGO AMA \#3](faq/amas/omisego-ama-3.md)
   * [OmiseGO AMA \#4](faq/amas/omisego-ama-4.md)
   * [OmiseGO AMA \#5](faq/amas/omisego-ama-5.md)
+  * [OmiseGO AMA \#6](faq/amas/omisego-ama-6-november-18-2018.md)
 

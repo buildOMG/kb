@@ -12,6 +12,8 @@
 
 ### OmiseGO [AMA \#5 ](https://kb.buildomg.org/faq/amas/omisego-ama-5)- November 12, 2018
 
+### OmiseGO [AMA \#6](https://www.reddit.com/r/omise_go/comments/9y464i/omisego_ama_6_november_18_2018/) - November 18, 2018
+
 
 
 
