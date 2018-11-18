@@ -59,9 +59,7 @@ There was an entity from the OMG community which was willing to be the steward f
 
 We’re disappointed by the way this has turned out - we wanted to work with Cosmos and Tendermint because we considered them friends and respected their tech. But they need to focus on getting their core product out, and we understand and support that. We’ll be doing the same.
 
-## Bitter but better that it has been clarified. Most importantly, hope something similar is not repeated in the future. Due diligence and more scrutiny would help avoid such situations. Why didn't you disclose this by yourself earlier rather than disclosing it after repeated expressions of disappointment and questions by the community?
+## Why didn't you disclose the cancellation of the Cosmos hard spoon earlier, rather than disclosing it after repeated expressions of disappointment and questions by the community?
 
 We're genuinely sorry for the confusion over the last couple of weeks. But we wanted to give a complete and final answer, which meant waiting until we had closure on the situation ourselves.
-
-Where do you see the OmiseGO project in 3 years and what gives you confidence that OmiseGO will prevail over it's competitors?
 
