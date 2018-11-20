@@ -93,6 +93,8 @@
     * \*\*\*\*[**Plasma Update \#4**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-4)
     * \*\*\*\*[**Plasma Update \#5**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-5)
     * \*\*\*\*[**Plasma Update \#6**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-6)
+    * \*\*\*\*[**Plasma Update \#7**](https://kb.buildomg.org/contents/deep-dive/plasma/current-state/plasma-update-7)
+    * \*\*\*\*[**Plasma Update \#8**](https://kb.buildomg.org/~/edit/drafts/-LRkWaTTxgfqzaeYYPNK/contents/deep-dive/plasma/current-state/plasma-update-8)
   * \*\*\*\*[**Plasma Resources**](https://kb.buildomg.org/contents/deep-dive/plasma/plasma-resources)
 * \*\*\*\*[**Cash in/out**](https://kb.buildomg.org/contents/deep-dive/cash-in-out-1)
   * \*\*\*\*[**What is Cash in/out?**](https://kb.buildomg.org/contents/deep-dive/cash-in-out-1/what-is-cash-in-out)
