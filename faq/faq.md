@@ -362,7 +362,15 @@ Full interview [here](https://slideslive.com/38911677/a-conversation-with-stewar
 
 This is all leading up to Ethereum integration; the features we're working on are required to provide a smooth integration and save us from making assumptions about how providers want to run their eWallet.
 
+## [Can you elaborate on “ethereum integration"?](https://www.reddit.com/r/omise_go/comments/a0n90p/ewallet_update_november_26_2018_the_it_does_not/eaizcgb/)
 
+Everything we’ll do to interact with plasma will require prior interactions with Ethereum - Ethereum wallet creation, creation and minting of tokens, ENS registration, deposit and exit of funds to/from Plasma all require direct connection with Ethereum.
+
+## [Appreciated on the thorough answer. But I got that, the store owner can create their own accounts, as they can create their own proprietary tokens. Thus they are the admin. But when the admin forget their password, or loses it, or \(sorry to say\) dies, there is usually an authority that can still access the accounts. Who watches the watcher in a decentralized economy? We are in beginning phases and maybe I'm getting ahead of myself, but if it's complete autonomy \(as only I know my private keys\) there is too high a risk of loss! What happens if Ms. Seven-11 CEO loses billions of Seven-11 rewards points because of the admin password problem?](https://www.reddit.com/r/omise_go/comments/a0n90p/ewallet_update_november_26_2018_the_it_does_not/eajh8dy/)
+
+The reset password feature introduced for end-users is only enabled when running the eWallet in standalone mode \(which means there are no other web application running in front, users interact directly with the eWallet\). By default, this mode is disabled, and that’s the way it should stay if you have a website where your users sign up, and only your website actually interacts with the eWallet. When standalone is disabled, end users don’t have passwords in the eWallet since they already have one in your system.
+
+It’s up to the eWallet providers to take the appropriate precautions in terms of their own security, creating sufficient redundancies and ensuring coins aren’t lost - the same way that both private and commercial users of crypto do now when dealing with their Ethereum or Bitcoin accounts.
 
 
 
