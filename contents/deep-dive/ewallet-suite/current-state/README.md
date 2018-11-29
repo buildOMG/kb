@@ -13,5 +13,7 @@ _Please note: the OMG Network is still in development, and some details cannot y
 ](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-6)\*\*\*\*[**eWallet Update \#7 - The “So where would you rather die? Here? Or in a Jaeger?” edition \(September 3, 2018\)**  
 ](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-7)\*\*\*\*[**eWallet Update \#8 - The “What we do in life echoes in eternity” edition \(September 17, 2018\)**  
 ](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-8)\*\*\*\*[**eWallet Update \#9 - The “Mr. Stark? I don’t feel so good...” edition \(October 15, 2018\)**  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-9)\*\*\*\*[**eWallet Update \#10 - The “And my axe!” edition \(October 29, 2018\)**](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-10)
+](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-9)\*\*\*\*[**eWallet Update \#10 - The “And my axe!” edition \(October 29, 2018\)**](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-10)  
+****[**eWallet Update \#11 - “The Light That Burns Twice As Bright” edition \(November 12, 2018\)**](https://www.reddit.com/r/omise_go/comments/9wkmj5/ewallet_update_november_12_2018_the_the_light/)  
+****[**eWallet Update \#12 - “It does not do to dwell on dreams and forget to live” edition \(November 26, 2018\)**](https://www.reddit.com/r/omise_go/comments/a0n90p/ewallet_update_november_26_2018_the_it_does_not/)\*\*\*\*
 

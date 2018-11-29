@@ -74,6 +74,7 @@
       * [eWallet Update \#9](contents/deep-dive/ewallet-suite/current-state/ewallet-update-9.md)
       * [eWallet Update \#10](contents/deep-dive/ewallet-suite/current-state/ewallet-update-10.md)
       * [eWallet Update \#11](contents/deep-dive/ewallet-suite/current-state/ewallet-update-11.md)
+      * [eWallet Update \#12](contents/deep-dive/ewallet-suite/current-state/ewallet-update-12.md)
     * [Implementation](contents/deep-dive/ewallet-suite/implementation.md)
     * [Resources](contents/deep-dive/ewallet-suite/resources.md)
   * [Plasma](contents/deep-dive/plasma/README.md)
