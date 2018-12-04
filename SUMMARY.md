@@ -92,6 +92,7 @@
       * [Plasma Update \#6](contents/deep-dive/plasma/current-state/plasma-update-6.md)
       * [Plasma Update \#7](contents/deep-dive/plasma/current-state/plasma-update-7.md)
       * [Plasma Update \#8](contents/deep-dive/plasma/current-state/plasma-update-8.md)
+      * [Plasma Update \#9](contents/deep-dive/plasma/current-state/plasma-update-9.md)
     * [Plasma Resources](contents/deep-dive/plasma/plasma-resources.md)
   * [Cash in/out](contents/deep-dive/cash-in-out-1/README.md)
     * [What is Cash in/out ?](contents/deep-dive/cash-in-out-1/what-is-cash-in-out.md)
