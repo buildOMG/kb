@@ -6,19 +6,23 @@ Yes, advisors like Vitalik are still involved in advising OmiseGO. As advising g
 
 ## Are crypto friendly regulations required for increased levels of adoption of the OMG Network? If so, how far are we from crypto friendly regulations in SE Asia, etc.?
 
+Like any good lawyer will tell you, the answer here is "it depends." These regulations are still evolving in SE Asia and everywhere else. Friendly crypto regulations may not be "necessary" for adoption; but such regulations would certainly provide important information for participants in the crypto industry. Regulations will particularly affect the compliance measures centralized providers will have to take in order to be able to offer certain services to their customers. Plenty of use cases of the OMG Network, such as loyalty points or digitized fiat through a licensed e-money provider, involve transacting with assets to which already-established regulatory frameworks apply in a relatively straightforward way.
+
+This also incorporates questions such as licensing or registration requirements under other applicable laws. Regulation is an important part of planning and risk management for any organization. Like any responsible business in a new technology field, we welcome clarity on how both current and future regulations apply to our business and the software we’re building.
+
+Every jurisdiction across the world is distinct. Many government bodies have proven to be interested in input and collaboration from the blockchain community on how to regulate crypto without stifling its potential. If you’re interested to follow this topic more closely, CoinCenter \([https://coincenter.org/](https://coincenter.org/)\) is a nonprofit organization that works on both educating lawmakers and the public, and advocating for sound policy around decentralized technologies. The transcript of Peter Van Valkenburgh’s recent [testimony](https://coincenter.org/entry/the-public-internet-needs-public-payments-infrastructure) to the US Senate on the need for public payments infrastructure is a particularly good read.
+
+## What has changed from last year that made you completely avoid the topic of big company \(a.k.a. conglomerates\)?
+
 It’s not so much that something has changed; more that _nothing_ has changed as far as what we can say in public. We haven’t talked much about conglomerates lately because there’s nothing new that we can talk about in detail, and more vague references will not lead to any useful discussion.
 
 We answered questions on conglomerates in both AMA [\#1](https://kb.buildomg.org/faq/amas/official-amas#are-the-3-conglomerates-rakuten-mizuho-and-huawei-blink-twice-if-the-answer-is-yes) & [\#2](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/e8n0mrq): 
 
 We have mentioned ShinhanCard more recently as you can see but others we can't release names or more details of until the time is right due to NDAs. When more information can be released, we will be eager for the community to see it.
 
-## What has changed from last year that made you completely avoid the topic of big company \(a.k.a. conglomerates\)?
-
-
-
 ## Do we have anything to look forward to before the end of this year?
 
-
+While there’s much we’re looking forward to, we’re not going to hint at anything until we are ready to fully deliver. Since this isn’t much of an answer, we’ll respond to another question instead.
 
 ## What is it in the tech of Plasma Prime or some other that compensates for multiple plasma chains and How do you say that multiple plasma chains has become less necessary?
 
