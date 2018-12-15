@@ -123,4 +123,5 @@
   * [OmiseGO AMA \#5](faq/amas/omisego-ama-5.md)
   * [OmiseGO AMA \#6](faq/amas/omisego-ama-6.md)
   * [OmiseGO AMA \#7](faq/amas/omisego-ama-7.md)
+  * [OmiseGO AMA \#8](faq/amas/omisego-ama-8.md)
 
