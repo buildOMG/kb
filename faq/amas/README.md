@@ -20,7 +20,7 @@
 
 ### OmiseGO [AMA \#9](https://kb.buildomg.org/faq/amas/omisego-ama-9) - December 7, 2018
 
-### OmiseGO AMA \#10 - December 14, 2018
+### OmiseGO [AMA \#10](https://kb.buildomg.org/faq/amas/omisego-ama-10) - December 14, 2018
 
 
 
