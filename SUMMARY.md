@@ -125,4 +125,5 @@
   * [OmiseGO AMA \#7](faq/amas/omisego-ama-7.md)
   * [OmiseGO AMA \#8](faq/amas/omisego-ama-8.md)
   * [OmiseGO AMA \#9](faq/amas/omisego-ama-9.md)
+  * [OmiseGO AMA \#10](faq/amas/omisego-ama-10.md)
 
