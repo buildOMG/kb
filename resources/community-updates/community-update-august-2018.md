@@ -1,4 +1,4 @@
-# Community Update — August 2018
+# Community Update  02— August 2018
 
 It’s been an interesting month! Here’s what we’ve been up to:
 

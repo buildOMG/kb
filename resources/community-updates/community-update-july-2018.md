@@ -1,4 +1,4 @@
-# Community Update — July 2018
+# Community Update 01 — July 2018
 
 Welcome to the inaugural edition of the OmiseGO Community Update! Whether you are a casual fan or a devout aficionado of all things blockchain and crypto networks, it can be difficult to keep up with all the developments happening here at OmiseGO. The intention of this first post is to provide a comprehensive update on business developments, technical progress and community outreach/events. And if you pay attention, there may also be some cute dog pictures of Plasma sprinkled throughout. ;\)
 

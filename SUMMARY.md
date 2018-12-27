@@ -115,11 +115,12 @@
   * [Dear bank, where did my 100 bucks go?](resources/videos/dear-bank-where-did-my-100-bucks-go.md)
 * [Links](resources/resources.md)
 * [Community Updates](resources/community-updates/README.md)
-  * [Community Update — July 2018](resources/community-updates/community-update-july-2018.md)
-  * [Community Update — August 2018](resources/community-updates/community-update-august-2018.md)
-  * [Community Update — September 2018](resources/community-updates/community-update-september-2018.md)
-  * [Community Update — October 2018](resources/community-updates/community-update-october-2018.md)
-  * [Community Update — November 2018](resources/community-updates/community-update-november-2018.md)
+  * [Community Update 01 — July 2018](resources/community-updates/community-update-july-2018.md)
+  * [Community Update  02— August 2018](resources/community-updates/community-update-august-2018.md)
+  * [Community Update  03— September 2018](resources/community-updates/community-update-september-2018.md)
+  * [Community Update 04 — October 2018](resources/community-updates/community-update-october-2018.md)
+  * [Community Update  05— November 2018](resources/community-updates/community-update-november-2018.md)
+  * [Community Update 06— December 2018](resources/community-updates/community-update-06-december-2018.md)
 
 ## FAQ
 
