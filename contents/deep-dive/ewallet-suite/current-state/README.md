@@ -17,6 +17,5 @@ _Please note: the OMG Network is still in development, and some details cannot y
 ](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-10)\*\*\*\*[**eWallet Update \#11 - November 12, 2018**  
 ](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-11)\*\*\*\*[**eWallet Update \#12 - November 26, 2018**  
 ](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-12)\*\*\*\*[**eWallet Update \#13 - November 26, 2018**  
-](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-13)\*\*\*\*[**eWallet Update \#14 - December 11, 2018** ](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-14)  
-****[**eWallet Update \#15 - January 6, 2019**](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-15)\*\*\*\*
+](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-13)\*\*\*\*[**eWallet Update \#14 - December 11, 2018** ](https://kb.buildomg.org/contents/deep-dive/ewallet-suite/current-state/ewallet-update-14)\*\*\*\*
 

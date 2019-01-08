@@ -2,7 +2,7 @@
 
 We did our best to take a little time off for the holidays[,](https://imgur.com/gallery/lOuTa2H) but we still made a big step forward at the tail end of December with the release of version [1.1.0-pre.0](https://github.com/omisego/ewallet/releases/tag/v1.1.0-pre.0). This is a pre-release, meaning a candidate for release which will undergo thorough testing and some final tweaks before going on to become the version 1.1 stable release.
 
-### Completed
+## Completed
 
 Here are the main items we’ve knocked out since the last update:
 
@@ -16,13 +16,13 @@ Here are the main items we’ve knocked out since the last update:
 * CSV export for transactions [\#605](https://github.com/omisego/ewallet/pull/605)
 * Switched to Distllery in releases [\#312](https://github.com/omisego/ewallet/pull/312)
 
-### In review
+## In review
 
 These tasks have been completed, pending review by wallet team admins:
 
 * Increase test coverage for ActivityLogger [\#618](https://github.com/omisego/ewallet/pull/618)
 
-### In progress
+## In progress
 
 These are the tasks we’re focusing on right now:
 
@@ -30,7 +30,7 @@ These are the tasks we’re focusing on right now:
 * Add exporting CSV feature to admin panel [\#613](https://github.com/omisego/ewallet/pull/613)
 * Increase test coverage [\#611](https://github.com/omisego/ewallet/issues/611), [\#612](https://github.com/omisego/ewallet/issues/612), [\#614](https://github.com/omisego/ewallet/issues/614), [\#615](https://github.com/omisego/ewallet/issues/615)
 
-### Coming up:
+## Coming up:
 
 We’ll be working on the remaining improvements and additions as well as lots of testing in order to take v1.1 from release candidate to production. And since we never stop looking ahead, we’ll be meeting in the coming weeks to nail down our approach to the next version once v1.1 is out.
 
