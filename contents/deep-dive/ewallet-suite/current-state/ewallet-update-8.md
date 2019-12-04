@@ -1,4 +1,4 @@
-# eWallet Update \#8
+# eWallet Update 08
 
 Here is what's been happening with the [eWallet](https://github.com/omisego/ewallet) since the last update:
 

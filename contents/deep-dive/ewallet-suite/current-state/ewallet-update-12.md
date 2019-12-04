@@ -1,4 +1,4 @@
-# eWallet Update \#12
+# eWallet Update 12
 
 Some members of the team were at the Devcon last week, supporting the release of the Plasma Dog demo and connecting with other projects in the space. On a more technical note, here are the various improvements we’ve made since our [last update](https://www.reddit.com/r/omise_go/comments/9sg1pp/ewallet_update_october_29_2018_the_and_my_axe/):
 

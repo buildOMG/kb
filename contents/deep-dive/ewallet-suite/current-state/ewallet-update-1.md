@@ -1,4 +1,4 @@
-# eWallet Update \#1
+# eWallet Update 01
 
 An update from our eWallet team who have been working around the clock toward production ready release of the eWallet SDK:[![](https://i.redd.it/65k44mljld811.jpg)](https://i.redd.it/65k44mljld811.jpg)
 

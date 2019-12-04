@@ -1,4 +1,4 @@
-# eWallet Update \#14
+# eWallet Update 14
 
 Here’s where we're at on the 1.1 tasks since the [last update](https://www.reddit.com/r/omise_go/comments/a0n90p/ewallet_update_november_26_2018_the_it_does_not/):
 

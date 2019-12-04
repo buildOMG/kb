@@ -1,4 +1,4 @@
-# eWallet Update \#13
+# eWallet Update 13
 
 We’ve been very busy since our [last update](https://www.reddit.com/r/omise_go/comments/9wkmj5/ewallet_update_november_12_2018_the_the_light/) and made some good progress on [version 1.1](https://github.com/omisego/ewallet/milestone/2)! We closed out lots of issues; we also shuffled things around, moving some features up to the 1.2 release. Here’s what we’ve worked on over the past 2 weeks:
 

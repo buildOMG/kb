@@ -1,4 +1,4 @@
-# eWallet Update \#9
+# eWallet Update 09
 
 Since the [last update](https://www.reddit.com/r/omise_go/comments/9gleas/ewallet_update_september_17_2018_the_what_we_do/), we’ve compiled the remaining issues to be resolved before the [v1.1 Milestone](https://github.com/omisego/ewallet/milestone/2) and are making our way down that list. Once all these are done, we’ll release a new version of the eWallet. Here are some of the tasks we’ve checked off so far:
 

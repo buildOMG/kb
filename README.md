@@ -1,4 +1,4 @@
-# OMG Knowledge Base
+# OMG Network Knowledge Base
 
 The [OMG Network Knowledge Base](https://kb.buildomg.org) \(OMG KB\) was conceived as a joint effort between the OMG community and project team to support quality communication and discourse concerning the OMG Network. The OMG KB is maintained by [community contributors](https://github.com/buildOMG/kb/graphs/contributors) and reflects an ongoing collection of curated information on the status and development of the [OMG Network](https://omisego.network/).
 

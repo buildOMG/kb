@@ -1,4 +1,4 @@
-# eWallet Update \#4
+# eWallet Update 04
 
 We’ve spent much of the week preparing for an event in Tokyo on July 28 where we will host about 40 developers and prospective implementers for a mini conference and hands-on workshop with three members of the eWallet team as well as Plasma Padawan Kelvin. Attendees will be led through the process of setting up the SDK on their own devices as well as get a tutorial on running a Plasma chain.
 

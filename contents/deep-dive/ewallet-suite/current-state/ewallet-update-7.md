@@ -1,4 +1,4 @@
-# eWallet Update \#7
+# eWallet Update 07
 
 ### Changes we’ve made since the last update:
 

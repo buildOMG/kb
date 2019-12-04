@@ -1,4 +1,4 @@
-# eWallet Update \#2
+# eWallet Update 02
 
 Howdy! We’re back for another quick update on this week’s eWallet progress.
 

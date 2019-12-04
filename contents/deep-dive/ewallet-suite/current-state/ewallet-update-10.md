@@ -1,4 +1,4 @@
-# eWallet Update \#10
+# eWallet Update 10
 
 We’ve been pretty busy getting ready for Devcon, but we’ve still managed to get some good coding done! Here’s what we’ve been working on since the [last update](https://www.reddit.com/r/omise_go/comments/9ogqba/ewallet_update_october_15_2018_the_mr_stark_i/):
 
