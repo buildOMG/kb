@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OMG Network Knowledge Base](README.md)
+* [OMG Network Guide](README.md)
 * [Knowledge Base Index](kb.md)
 * [Development](development/README.md)
   * [Contributing](development/contributing.md)

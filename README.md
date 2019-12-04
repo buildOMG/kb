@@ -1,6 +1,6 @@
-# OMG Network Knowledge Base
+# OMG Network Guide
 
-The [OMG Network Knowledge Base](https://kb.buildomg.org) \(OMG KB\) was conceived as a joint effort between the OMG community and project team to support quality communication and discourse concerning the OMG Network. The OMG KB is maintained by [community contributors](https://github.com/buildOMG/kb/graphs/contributors) and reflects an ongoing collection of curated information on the status and development of the [OMG Network](https://omisego.network/).
+The [OMG Network Guide](https://guide.omgnetwork.org) was conceived as a joint effort between the OMG community and project team to support quality communication and discourse concerning the OMG Network. The OMG KB is maintained by [community contributors](https://github.com/buildOMG/kb/graphs/contributors) and reflects an ongoing collection of curated information on the status and development of the [OMG Network](https://omisego.co).
 
 ## **Use**
 
@@ -16,7 +16,7 @@ Because of the Open Source nature of the project, we are actively seeking [contr
 
 ## **Programmatic Access to the data**
 
-_How to acces the knowledge database in your application_ _Documentation about getting information off of Gitbook \(hard links etc\)_
+_How to access the knowledge database in your application_ _Documentation about getting information off of Gitbook \(hard links etc\)_
 
 ## **Goals**
 
